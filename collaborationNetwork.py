@@ -51,11 +51,11 @@ edgeData = {
     'Weight': []
 }
 
-for authors, weight in G.edges.items():
+for authors, attributes in G.edges.items():
     edgeData['Source'].append(labelToId[authors[0]])
     edgeData['Target'].append(labelToId[authors[1]])
     edgeData['Type'].append('Undirected')
-    edgeData['Weight'].append(weight['weight'])
+    edgeData['Weight'].append(attributes['weight'])
 
 edgeDataFrame = pd.DataFrame(edgeData, columns=['Source', 'Target', 'Type', 'Weight'])
 edgeDataFrame.to_csv("files/edge.csv", index=False)
