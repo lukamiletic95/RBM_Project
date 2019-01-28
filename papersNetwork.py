@@ -13,15 +13,15 @@ authorsToPapers = {}
 
 for k in range(len(sheetAuthors['Authors']) - 1, -1, -1):
     authorList = sheetAuthors['Authors'][k]
-    papers = authorList.split(",")
+    authors = authorList.split(",")
 
-    for i in range(len(papers)):
-        papers[i] = papers[i].split(";")[0].strip().replace(".", "")
+    for i in range(len(authors)):
+        authors[i] = authors[i].split(";")[0].strip().replace(".", "")
 
-    if "et al" in papers:
-        papers.remove("et al")
+    if "et al" in authors:
+        authors.remove("et al")
 
-    for author in set(papers): # authors must be unique for a single paper
+    for author in set(authors): # authors must be unique for a single paper
         if author not in authorsToPapers:
             authorsToPapers[author] = []
 
@@ -64,9 +64,9 @@ edgeData = {
     'Type': []
 }
 
-for papers, _ in G.edges.items():
-    edgeData['Source'].append(labelToId[papers[0]])
-    edgeData['Target'].append(labelToId[papers[1]])
+for authors, _ in G.edges.items():
+    edgeData['Source'].append(labelToId[authors[0]])
+    edgeData['Target'].append(labelToId[authors[1]])
     edgeData['Type'].append('Directed')
 
 edgeDataFrame = pd.DataFrame(edgeData, columns=['Source', 'Target', 'Type'])
