@@ -1,0 +1,4172 @@
+Average number of papers per journal: 9.12326139088729
+
+PLoS One: 1268
+Sci Rep: 973
+Nat Commun: 412
+Oncotarget: 398
+J Biol Chem: 276
+Proc Natl Acad Sci U S A: 261
+Methods Mol Biol: 258
+Int J Mol Sci: 242
+Proteomics: 200
+Nucleic Acids Res: 187
+Biochim Biophys Acta: 179
+Biomed Res Int: 171
+Front Immunol: 149
+Cell Rep: 134
+Biochem Biophys Res Commun: 129
+Nanoscale: 129
+Biomedicine (Taipei): 129
+J Immunol: 127
+Bioinformatics: 123
+Nature: 121
+Biomaterials: 120
+Angew Chem Int Ed Engl: 120
+ACS Appl Mater Interfaces: 119
+Anal Chem: 115
+Cell Death Dis: 111
+J Am Chem Soc: 107
+Int J Fertil Steril: 106
+Molecules: 105
+Blood: 102
+Hum Mol Genet: 96
+Eur J Med Chem: 95
+Front Physiol: 94
+Int J Nanomedicine: 93
+Nat Genet: 92
+Org Lett: 91
+Chem Commun (Camb): 90
+Front Microbiol: 90
+ACS Nano: 90
+Front Pharmacol: 88
+J Med Chem: 83
+Chemistry: 80
+Cell: 79
+Science: 78
+J Cell Physiol: 77
+Cancer Res: 77
+Oncogene: 76
+FASEB J: 74
+Biosens Bioelectron: 74
+Antimicrob Agents Chemother: 74
+Eur J Immunol: 71
+Elife: 71
+Mater Sci Eng C Mater Biol Appl: 70
+BMC Genomics: 70
+EMBO J: 70
+J Vis Exp: 69
+Br J Pharmacol: 68
+Cell J: 66
+Cell Mol Life Sci: 66
+J Alzheimers Dis: 65
+J Proteome Res: 65
+BMC Cancer: 64
+Curr Med Chem: 64
+Mol Neurobiol: 64
+Langmuir: 64
+Small: 61
+Int J Cancer: 61
+Stem Cell Reports: 60
+Chem Soc Rev: 60
+Biomed Pharmacother: 59
+PLoS Comput Biol: 59
+Adv Mater: 58
+PLoS Genet: 58
+Exp Cell Res: 58
+Bioorg Med Chem Lett: 58
+Mol Cell Endocrinol: 57
+Adv Exp Med Biol: 57
+Cancer Lett: 57
+Nat Med: 56
+BMC Bioinformatics: 56
+Acta Biomater: 56
+J Physiol: 55
+Structure: 55
+Cell Physiol Biochem: 55
+Leukemia: 54
+Int J Pharm: 54
+J Cell Sci: 54
+Neuropharmacology: 54
+J Virol: 54
+Eur J Pharmacol: 54
+J Clin Endocrinol Metab: 53
+Front Cell Neurosci: 53
+Colloids Surf B Biointerfaces: 53
+Nat Cell Biol: 53
+J Nat Prod: 53
+Diabetes: 52
+Evid Based Complement Alternat Med: 52
+J Control Release: 52
+Stem Cell Res: 52
+Free Radic Biol Med: 52
+FEBS Lett: 52
+Nat Immunol: 51
+Analyst: 51
+Neuroscience: 51
+PLoS Pathog: 51
+Nutrients: 50
+Clin Cancer Res: 50
+Am J Transl Res: 49
+Medicine (Baltimore): 49
+Cell Stem Cell: 49
+Acta Physiol (Oxf): 49
+Cell Cycle: 49
+FEBS J: 49
+Stem Cells: 48
+PeerJ: 48
+Basic Clin Pharmacol Toxicol: 48
+Arterioscler Thromb Vasc Biol: 47
+Oncol Lett: 47
+Int J Cardiol: 47
+Endocrinology: 47
+Anal Bioanal Chem: 47
+J Infect Dis: 46
+Am J Physiol Renal Physiol: 46
+Curr Pharm Des: 46
+Mar Drugs: 45
+Nephrol Dial Transplant: 45
+J Neurosci: 45
+Oxid Med Cell Longev: 45
+J Antimicrob Chemother: 45
+Theranostics: 44
+Immunity: 44
+Development: 44
+Biochem J: 44
+Neurosci Lett: 44
+J Proteomics: 44
+Mol Cell Proteomics: 44
+Bioorg Med Chem: 44
+Pain: 43
+Mol Psychiatry: 42
+EMBO Rep: 42
+Swiss Med Wkly: 41
+Front Genet: 41
+Arch Toxicol: 41
+Sci Transl Med: 41
+Talanta: 41
+Nanomedicine (Lond): 40
+Biophys J: 40
+Reprod Biomed Online: 40
+J Exp Med: 40
+Neurobiol Dis: 40
+Haematologica: 40
+Br J Cancer: 40
+J Cell Biol: 40
+J Cell Mol Med: 40
+Cell Metab: 40
+J Endod: 40
+Biochem Pharmacol: 39
+Mediators Inflamm: 39
+Cancer Cell: 38
+Pharmacol Res: 38
+Diabetologia: 38
+Phys Chem Chem Phys: 38
+Genome Med: 38
+Eur J Hum Genet: 37
+Behav Brain Res: 37
+Georgian Med News: 37
+J Dairy Sci: 37
+Front Mol Neurosci: 37
+BMJ Open: 37
+Chembiochem: 37
+Cell Res: 36
+Carbohydr Polym: 36
+Zhonghua Kou Qiang Yi Xue Za Zhi: 36
+Semin Cell Dev Biol: 36
+J Thorac Dis: 36
+Am J Hum Genet: 36
+J Allergy Clin Immunol: 36
+Acc Chem Res: 36
+Biomacromolecules: 35
+J Cell Biochem: 35
+Vaccine: 35
+Bone: 35
+EBioMedicine: 34
+Int J Biol Macromol: 34
+Neurology: 34
+World Neurosurg: 34
+Mult Scler: 34
+Neurobiol Aging: 34
+Nanoscale Res Lett: 34
+J Biomed Mater Res A: 34
+Front Endocrinol (Lausanne): 33
+Anticancer Res: 33
+Am J Pathol: 33
+J Transl Med: 33
+Life Sci: 33
+Oncol Rep: 33
+J Org Chem: 33
+Tumour Biol: 33
+World J Gastroenterol: 32
+Front Neurosci: 32
+Mol Oncol: 32
+Clin Nutr: 32
+Cell Signal: 32
+Dev Cell: 32
+Cytokine: 32
+Mol Med Rep: 32
+Autophagy: 32
+J Dent Res: 32
+Gene: 32
+Curr Biol: 32
+Soc Sci Med: 32
+Cell Tissue Res: 32
+Anal Chim Acta: 31
+Toxins (Basel): 31
+J Tissue Eng Regen Med: 31
+F1000Res: 31
+Nanotechnology: 31
+Front Neurol: 31
+Kidney Int: 31
+BMC Complement Altern Med: 31
+Circ Res: 31
+Clin Microbiol Infect: 31
+Mol Cell: 31
+Med Anthropol: 31
+Int J Obes (Lond): 31
+EMBO Mol Med: 31
+J Ethnopharmacol: 31
+Appl Environ Microbiol: 31
+Int J Oncol: 31
+Transl Psychiatry: 30
+Biochem Soc Trans: 30
+Nat Biotechnol: 30
+Brain: 30
+Andrologia: 30
+Int J Biochem Cell Biol: 30
+Eur J Pharm Sci: 30
+Eur J Neurol: 30
+Fertil Steril: 30
+J Pineal Res: 30
+Neurol Sci: 30
+Food Chem: 30
+Stud Health Technol Inform: 30
+Genome Announc: 30
+J Chem Theory Comput: 30
+J Leukoc Biol: 29
+Oncoimmunology: 29
+Nat Chem Biol: 29
+Sci Signal: 29
+Br J Dermatol: 29
+BMC Infect Dis: 29
+J Assist Reprod Genet: 29
+J Clin Microbiol: 29
+Genome Biol: 29
+Adv Drug Deliv Rev: 29
+J Neurol: 29
+J Biomed Inform: 29
+J Appl Physiol (1985): 28
+J Neurophysiol: 28
+Histol Histopathol: 28
+Eur Respir J: 28
+Lab Chip: 28
+Eur J Neurosci: 28
+Neuromuscul Disord: 28
+J Mol Biol: 28
+Mol Cancer: 28
+Clin Exp Immunol: 28
+Arch Gynecol Obstet: 28
+J Invest Dermatol: 27
+Mol Nutr Food Res: 27
+Int J Environ Res Public Health: 27
+J Exp Clin Cancer Res: 27
+Appl Microbiol Biotechnol: 27
+J Clin Invest: 27
+Brain Res: 27
+Stem Cell Res Ther: 27
+J Biol Regul Homeost Agents: 27
+J Neurochem: 27
+Amino Acids: 27
+J Steroid Biochem Mol Biol: 27
+Mol Immunol: 27
+Br J Nutr: 27
+Maturitas: 27
+Hum Reprod: 27
+Nat Protoc: 27
+Org Biomol Chem: 27
+Hepatology: 27
+Biochemistry: 26
+Redox Biol: 26
+Neuroimage: 26
+J Hepatol: 26
+Anal Biochem: 26
+J Colloid Interface Sci: 26
+Chem Sci: 26
+Genome Res: 26
+J Pharm Biomed Anal: 26
+Theriogenology: 26
+Hua Xi Kou Qiang Yi Xue Za Zhi: 26
+Brief Bioinform: 26
+Data Brief: 26
+Bioconjug Chem: 26
+J Neurol Sci: 26
+Circulation: 26
+Am J Transplant: 26
+J Am Soc Nephrol: 26
+Toxicol Lett: 26
+Placenta: 26
+Hum Mutat: 25
+Mucosal Immunol: 25
+Hypertension: 25
+Methods: 25
+Eur J Pharm Biopharm: 25
+Schizophr Res: 25
+Fish Shellfish Immunol: 25
+PLoS Biol: 25
+Front Cell Infect Microbiol: 25
+Allergy: 25
+Eur Neuropsychopharmacol: 25
+Br J Haematol: 25
+Clin Infect Dis: 25
+Toxicology: 25
+Am J Physiol Heart Circ Physiol: 25
+Chem Rev: 25
+Cardiovasc Res: 25
+ACS Chem Biol: 25
+APMIS: 25
+Lancet: 25
+J Phys Chem B: 25
+Stem Cells Dev: 25
+Cancers (Basel): 24
+Cell Death Differ: 24
+PLoS Negl Trop Dis: 24
+Prog Neuropsychopharmacol Biol Psychiatry: 24
+Psychiatry Res: 24
+Toxicol Appl Pharmacol: 24
+Physiol Rep: 24
+Infect Immun: 24
+Arch Oral Biol: 24
+Mol Biol Cell: 24
+Atherosclerosis: 24
+Int J Biol Sci: 24
+Adv Healthc Mater: 24
+Sociol Health Illn: 24
+Tissue Eng Part A: 24
+J Nutr Biochem: 24
+J Lipid Res: 24
+Nat Methods: 24
+Am J Physiol Endocrinol Metab: 23
+RNA Biol: 23
+ACS Med Chem Lett: 23
+Toxicol In Vitro: 23
+Mol Ther: 23
+J Cereb Blood Flow Metab: 23
+Gynecol Endocrinol: 23
+Ann Rheum Dis: 23
+Nat Microbiol: 23
+Antiviral Res: 23
+J Neuroimmunol: 23
+Immunol Cell Biol: 23
+Drug Discov Today: 23
+Matrix Biol: 23
+J Mol Cell Cardiol: 23
+Reproduction: 23
+Brain Struct Funct: 23
+J Chromatogr A: 23
+Biol Reprod: 23
+J Exp Biol: 23
+Arthritis Res Ther: 23
+Antioxid Redox Signal: 23
+Yi Chuan: 23
+J Nanosci Nanotechnol: 23
+Invest Ophthalmol Vis Sci: 22
+Andrology: 22
+Mol Ther Nucleic Acids: 22
+Mol Cancer Ther: 22
+Mov Disord: 22
+Sensors (Basel): 22
+Fitoterapia: 22
+J Oral Pathol Med: 22
+Immunology: 22
+Neuron: 22
+JCI Insight: 22
+Cryobiology: 22
+Sci Total Environ: 22
+Res Vet Sci: 22
+Front Aging Neurosci: 22
+Gut: 22
+Cochrane Database Syst Rev: 22
+Am J Physiol Regul Integr Comp Physiol: 22
+J Clin Virol: 22
+Methods Enzymol: 22
+J Agric Food Chem: 22
+Am J Med Genet A: 22
+Histochem Cell Biol: 22
+Exp Ther Med: 22
+Immunobiology: 22
+Am J Physiol Gastrointest Liver Physiol: 22
+BMC Syst Biol: 22
+Mol Hum Reprod: 22
+Nanomedicine: 22
+Shanghai Kou Qiang Yi Xue: 22
+Pediatr Res: 21
+Mult Scler Relat Disord: 21
+Rheumatology (Oxford): 21
+Dev Biol: 21
+Infect Dis (Lond): 21
+J Neuroinflammation: 21
+Viruses: 21
+Mol Pharm: 21
+Eur Rev Med Pharmacol Sci: 21
+J Neurosci Methods: 21
+Stem Cells Int: 21
+Clin Sci (Lond): 21
+Clin Neurophysiol: 21
+Mol Cell Biochem: 21
+Eur J Obstet Gynecol Reprod Biol: 21
+J Affect Disord: 21
+Curr Opin Biotechnol: 21
+Anthropol Med: 21
+Mol Cell Biol: 21
+Stem Cells Transl Med: 21
+Cell Regen (Lond): 21
+ChemMedChem: 20
+Genes (Basel): 20
+Acta Diabetol: 20
+Glia: 20
+Microbiome: 20
+Food Chem Toxicol: 20
+J Matern Fetal Neonatal Med: 20
+Dent Mater: 20
+J Altern Complement Med: 20
+Biol Psychiatry: 20
+Osteoarthritis Cartilage: 20
+Exp Gerontol: 20
+Conf Proc IEEE Eng Med Biol Soc: 20
+Psychopharmacology (Berl): 20
+BMC Res Notes: 20
+Biomed Opt Express: 20
+Eur J Clin Microbiol Infect Dis: 20
+Clin Biochem: 20
+J Mol Histol: 20
+MBio: 20
+J Pept Sci: 20
+Med Image Anal: 20
+Steroids: 20
+Health (London): 20
+J Clin Med: 19
+Toxicol Sci: 19
+J Clin Nurs: 19
+Eur J Nutr: 19
+AIDS: 19
+J Mol Neurosci: 19
+Biosci Rep: 19
+Surg Neurol Int: 19
+Onco Targets Ther: 19
+J Histochem Cytochem: 19
+J Gerontol A Biol Sci Med Sci: 19
+J Biophotonics: 19
+J Immunol Res: 19
+BMC Public Health: 19
+Clin Genet: 19
+Pflugers Arch: 19
+J Biomed Opt: 19
+Neuropsychopharmacology: 19
+Soft Matter: 19
+J Pharmacol Exp Ther: 19
+Biochim Biophys Acta Gen Subj: 19
+J Sports Med Phys Fitness: 19
+J Nanobiotechnology: 19
+Environ Sci Technol: 19
+Acta Neurol Scand: 19
+Cell Syst: 19
+Mol Pharmacol: 19
+Dis Model Mech: 19
+Traffic: 19
+Protein Expr Purif: 19
+Ann Hematol: 18
+Cancer Immunol Immunother: 18
+Am J Clin Nutr: 18
+Acta Neurochir Suppl: 18
+Materials (Basel): 18
+J Med Virol: 18
+J Strength Cond Res: 18
+Front Bioeng Biotechnol: 18
+Gigascience: 18
+Neural Regen Res: 18
+Peptides: 18
+Parasitol Res: 18
+J Pathol: 18
+Front Cell Dev Biol: 18
+Nano Lett: 18
+Hum Vaccin Immunother: 18
+Future Med Chem: 18
+J Oral Maxillofac Surg: 18
+Cancer Discov: 18
+Gen Comp Endocrinol: 18
+Ann N Y Acad Sci: 18
+Clin Epigenetics: 18
+Iran J Reprod Med: 18
+Med Image Comput Comput Assist Interv: 18
+Neuro Oncol: 17
+Scand J Immunol: 17
+J Biomed Semantics: 17
+Biotechnol J: 17
+Neurochem Res: 17
+Ann Transl Med: 17
+J Am Heart Assoc: 17
+J Chem Inf Model: 17
+Front Psychol: 17
+Stroke: 17
+Exp Dermatol: 17
+Clin Oral Investig: 17
+Scand J Med Sci Sports: 17
+ACS Chem Neurosci: 17
+Biopolymers: 17
+Cereb Cortex: 17
+Mitochondrion: 17
+J Neurol Neurosurg Psychiatry: 17
+J Comp Neurol: 17
+Cell Chem Biol: 17
+Virology: 17
+Eur J Pain: 17
+CNS Neurosci Ther: 17
+Oral Dis: 17
+Parkinsonism Relat Disord: 17
+Comput Methods Programs Biomed: 17
+Acta Biochim Biophys Sin (Shanghai): 17
+Gastroenterology: 17
+Glycobiology: 17
+Leuk Res: 16
+Environ Microbiol: 16
+Int J Reprod Biomed (Yazd): 16
+Immunol Lett: 16
+Chem Asian J: 16
+Cells: 16
+Neuroreport: 16
+Chemosphere: 16
+Thromb Haemost: 16
+J Biomed Mater Res B Appl Biomater: 16
+Clin Exp Rheumatol: 16
+Med Anthropol Q: 16
+J Chromatogr B Analyt Technol Biomed Life Sci: 16
+Diabetes Obes Metab: 16
+Nat Neurosci: 16
+Vet J: 16
+Toxicon: 16
+Neurogastroenterol Motil: 16
+Bioimpacts: 16
+Int J Antimicrob Agents: 16
+Front Hum Neurosci: 16
+Acta Pharmacol Sin: 16
+Transplantation: 16
+Int Immunopharmacol: 16
+J Hypertens: 16
+J Mech Behav Biomed Mater: 16
+Eur J Oral Sci: 16
+Dalton Trans: 16
+Aging (Albany NY): 16
+Vet Comp Oncol: 16
+Obesity (Silver Spring): 16
+Ann Ig: 16
+Epigenetics: 16
+J Mol Med (Berl): 16
+J Hematol Oncol: 16
+Ann Neurol: 16
+Psychiatr Genet: 16
+J Neurooncol: 16
+Int Endod J: 16
+BMC Med Genet: 16
+Int J Dev Biol: 16
+J Antibiot (Tokyo): 16
+Pharmacol Biochem Behav: 16
+Future Microbiol: 15
+Microb Pathog: 15
+Biochim Biophys Acta Mol Basis Dis: 15
+Nutr Metab Cardiovasc Dis: 15
+Epidemiol Psychiatr Sci: 15
+Acta Neuropathol Commun: 15
+J Microbiol Methods: 15
+Front Oncol: 15
+Neurosci Biobehav Rev: 15
+Vet Pathol: 15
+Nanomaterials (Basel): 15
+J Mater Sci Mater Med: 15
+Qual Health Res: 15
+Sci Data: 15
+Epilepsy Behav: 15
+Nat Prod Res: 15
+Int J Food Microbiol: 15
+Mol Microbiol: 15
+Front Plant Sci: 15
+BMC Vet Res: 15
+Aging Cell: 15
+J Photochem Photobiol B: 15
+J Neurosci Res: 15
+Curr Opin Cell Biol: 15
+J Endocrinol: 15
+Cytometry A: 15
+Chem Biol Interact: 15
+Proteins: 15
+Exp Neurol: 15
+J Dent: 15
+ISME J: 15
+Eur J Appl Physiol: 15
+Brain Behav Immun: 15
+J Thromb Haemost: 15
+Front Mol Biosci: 15
+Scand J Pain: 15
+Curr Opin Genet Dev: 15
+Clin Physiol Funct Imaging: 15
+J Periodontal Res: 15
+J Biotechnol: 15
+J Enzyme Inhib Med Chem: 15
+Pharmacogenomics: 15
+Mol Cancer Res: 15
+Drug Des Devel Ther: 15
+Am J Physiol Cell Physiol: 15
+J Orthop Res: 14
+Respir Med: 14
+J Am Med Dir Assoc: 14
+J Extracell Vesicles: 14
+Front Psychiatry: 14
+Parasit Vectors: 14
+Angiogenesis: 14
+Epilepsia: 14
+Mol Med: 14
+Transl Oncol: 14
+Eur Urol: 14
+Aging Clin Exp Res: 14
+ScientificWorldJournal: 14
+J Neuropathol Exp Neurol: 14
+J Clin Epidemiol: 14
+Sci China Life Sci: 14
+Pediatr Allergy Immunol: 14
+Genes Chromosomes Cancer: 14
+J Theor Biol: 14
+Trends Cell Biol: 14
+Biotechnol Adv: 14
+Cytotherapy: 14
+J Gen Virol: 14
+Eur J Phys Rehabil Med: 14
+Front Behav Neurosci: 14
+Mol Reprod Dev: 14
+Am J Med Genet B Neuropsychiatr Genet: 14
+Leuk Lymphoma: 14
+Br J Oral Maxillofac Surg: 14
+Clin Pharmacokinet: 14
+Hum Gene Ther: 14
+Osteoporos Int: 14
+Lab Invest: 14
+Acta Paediatr: 14
+Asian Pac J Cancer Prev: 14
+J Eur Acad Dermatol Venereol: 14
+Int J Mol Med: 14
+Inflamm Bowel Dis: 14
+Eur J Cancer: 14
+J Immunol Methods: 14
+JAMA Psychiatry: 14
+J Biomech: 14
+J Neuroendocrinol: 14
+Expert Opin Ther Pat: 14
+Clin Exp Pharmacol Physiol: 14
+Neurochem Int: 14
+Mol Biosyst: 14
+Springerplus: 14
+Chem Biol: 14
+Biomater Sci: 13
+Mol Syst Biol: 13
+Brain Res Bull: 13
+Future Oncol: 13
+Carcinogenesis: 13
+Protein Sci: 13
+Comput Biol Med: 13
+BMC Med Educ: 13
+Commun Integr Biol: 13
+Nutrition: 13
+BMC Psychiatry: 13
+Mol Metab: 13
+Prenat Diagn: 13
+J Pain Res: 13
+Int J Syst Evol Microbiol: 13
+J Phys Chem Lett: 13
+Ann Oncol: 13
+Environ Pollut: 13
+Clin Chim Acta: 13
+Cell Microbiol: 13
+Cell Reprogram: 13
+J Immunoassay Immunochem: 13
+Orphanet J Rare Dis: 13
+BMC Med: 13
+J Intern Med: 13
+Cancer Med: 13
+Lancet Psychiatry: 13
+J Appl Toxicol: 13
+Spectrochim Acta A Mol Biomol Spectrosc: 13
+Lancet Neurol: 13
+Med Sci Monit: 13
+Curr Alzheimer Res: 13
+Eur J Endocrinol: 13
+Protein Cell: 13
+NMR Biomed: 13
+Lipids Health Dis: 13
+Curr Opin Immunol: 13
+Eur J Clin Pharmacol: 13
+Aquat Toxicol: 13
+Cell Mol Neurobiol: 13
+OMICS: 13
+Hum Immunol: 13
+Scand J Gastroenterol: 13
+Biochim Biophys Acta Biomembr: 13
+Transfusion: 13
+Acta Ophthalmol: 13
+J Endocrinol Invest: 13
+Bioessays: 13
+Genet Mol Res: 13
+Philos Trans A Math Phys Eng Sci: 13
+Int J Clin Exp Pathol: 13
+N Biotechnol: 12
+Hum Brain Mapp: 12
+BMC Pregnancy Childbirth: 12
+Nat Rev Immunol: 12
+Exp Brain Res: 12
+ALTEX: 12
+Trends Biochem Sci: 12
+Medicina (Kaunas): 12
+J Genet Genomics: 12
+Pharm Res: 12
+Med Hypotheses: 12
+Int J Med Sci: 12
+Trends Biotechnol: 12
+Chin J Integr Med: 12
+Diagn Microbiol Infect Dis: 12
+Anaerobe: 12
+Stat Med: 12
+Med Humanit: 12
+BMC Med Genomics: 12
+Physiol Behav: 12
+BMC Microbiol: 12
+Breast Cancer Res: 12
+Mol Genet Metab: 12
+Cancer Biol Ther: 12
+Nat Struct Mol Biol: 12
+J Am Med Inform Assoc: 12
+Database (Oxford): 12
+Sheng Wu Yi Xue Gong Cheng Xue Za Zhi: 12
+Respir Res: 12
+J Struct Biol: 12
+Clin Immunol: 12
+Cien Saude Colet: 12
+J Pharm Pharmacol: 12
+Curr Protein Pept Sci: 12
+Dis Markers: 12
+Genes Dev: 12
+Adv Colloid Interface Sci: 12
+Med Phys: 12
+Cancer Sci: 12
+Ann Anat: 12
+J Autoimmun: 12
+Front Chem: 12
+BMC Oral Health: 12
+Am J Respir Crit Care Med: 12
+J Biomol Struct Dyn: 12
+J Craniofac Surg: 12
+Hum Pathol: 12
+Microb Biotechnol: 12
+Front Neuroanat: 12
+Tissue Eng Part C Methods: 12
+Ultrasound Obstet Gynecol: 12
+J Diabetes Res: 12
+Beilstein J Nanotechnol: 12
+J Adv Nurs: 12
+Clin Rheumatol: 12
+Methods Inf Med: 12
+J Minim Invasive Gynecol: 12
+Trends Endocrinol Metab: 12
+IUBMB Life: 12
+Philos Trans R Soc Lond B Biol Sci: 12
+J Mass Spectrom: 12
+J Gen Physiol: 12
+Nanotoxicology: 12
+Trends Pharmacol Sci: 12
+Curr Opin Struct Biol: 12
+J Viral Hepat: 12
+J Mol Cell Biol: 12
+Micron: 12
+Genet Test Mol Biomarkers: 12
+Ecotoxicol Environ Saf: 11
+Acta Trop: 11
+Biochimie: 11
+DNA Repair (Amst): 11
+Clin Chem: 11
+Cancer Cell Int: 11
+Acta Neuropathol: 11
+Prog Neurobiol: 11
+Clin Implant Dent Relat Res: 11
+Sci Immunol: 11
+Expert Opin Ther Targets: 11
+J Clin Hypertens (Greenwich): 11
+J Med Genet: 11
+Br J Clin Pharmacol: 11
+Clin Endocrinol (Oxf): 11
+J Ophthalmol: 11
+J Am Coll Cardiol: 11
+Blood Adv: 11
+IEEE Trans Med Imaging: 11
+Zebrafish: 11
+Expert Rev Proteomics: 11
+Forensic Sci Int: 11
+Exp Eye Res: 11
+Eur J Histochem: 11
+Pharmacol Ther: 11
+Platelets: 11
+Eur Heart J: 11
+BMC Nephrol: 11
+Macromol Rapid Commun: 11
+Syst Rev: 11
+Clin Chem Lab Med: 11
+Acta Histochem: 11
+G3 (Bethesda): 11
+J Headache Pain: 11
+Clujul Med: 11
+Am J Physiol Lung Cell Mol Physiol: 11
+Eur J Nucl Med Mol Imaging: 11
+BMC Neurol: 11
+Metabolism: 11
+Microb Cell Fact: 11
+RNA: 11
+Genome Biol Evol: 11
+Eur J Clin Nutr: 11
+J Infect: 11
+Semin Cancer Biol: 11
+J Eval Clin Pract: 11
+J R Soc Interface: 11
+Planta Med: 11
+Neural Plast: 11
+Macromol Biosci: 11
+Int J Oral Maxillofac Surg: 11
+Chest: 11
+Prog Lipid Res: 11
+Expert Opin Drug Discov: 11
+Am J Cancer Res: 11
+Environ Sci Pollut Res Int: 11
+Med Chem: 11
+Calcif Tissue Int: 11
+Exp Hematol: 11
+Thromb Res: 11
+Ultrasound Med Biol: 11
+Gynecol Oncol: 11
+J Neural Transm (Vienna): 11
+Opt Express: 11
+J Huazhong Univ Sci Technolog Med Sci: 11
+Magn Reson Med: 11
+Cold Spring Harb Perspect Biol: 11
+Guang Pu Xue Yu Guang Pu Fen Xi: 11
+Expert Opin Drug Deliv: 11
+Acta Crystallogr D Biol Crystallogr: 11
+Basic Res Cardiol: 10
+Brain Behav: 10
+Ital J Pediatr: 10
+BMC Biotechnol: 10
+Adv Sci (Weinh): 10
+J Am Geriatr Soc: 10
+Int J Endocrinol: 10
+Artif Cells Nanomed Biotechnol: 10
+Patient Educ Couns: 10
+Blood Cancer J: 10
+Acta Odontol Scand: 10
+Comp Biochem Physiol Part D Genomics Proteomics: 10
+Biochim Biophys Acta Mol Cell Res: 10
+Neoplasia: 10
+Anat Rec (Hoboken): 10
+Microbes Infect: 10
+Acta Pharm Sin B: 10
+J Natl Cancer Inst: 10
+Emerg Microbes Infect: 10
+Eur J Med Genet: 10
+Cell Commun Signal: 10
+J Bone Miner Res: 10
+Complement Ther Med: 10
+Evol Appl: 10
+Oncogenesis: 10
+Biotechnol Lett: 10
+Age Ageing: 10
+Mol Biol Rep: 10
+Wiley Interdiscip Rev Nanomed Nanobiotechnol: 10
+Cancer Chemother Pharmacol: 10
+Med Sci Sports Exerc: 10
+CPT Pharmacometrics Syst Pharmacol: 10
+Exp Mol Med: 10
+J Crohns Colitis: 10
+Cell Adh Migr: 10
+Clin Exp Allergy: 10
+Neuropathol Appl Neurobiol: 10
+Naunyn Schmiedebergs Arch Pharmacol: 10
+Bull Exp Biol Med: 10
+Hum Fertil (Camb): 10
+Diabetes Res Clin Pract: 10
+Biotechnol Bioeng: 10
+J Cancer Res Clin Oncol: 10
+Syst Biol Reprod Med: 10
+Regen Med: 10
+Muscle Nerve: 10
+Trends Mol Med: 10
+Genetics: 10
+ACS Synth Biol: 10
+Ann Biomed Eng: 10
+J Glob Health: 10
+Immunol Rev: 10
+Cell Biol Int: 10
+Food Funct: 10
+Stud Hist Philos Biol Biomed Sci: 10
+J Biomed Nanotechnol: 10
+Clin Exp Metastasis: 10
+Prof Inferm: 10
+J Dairy Res: 10
+Electrophoresis: 10
+Cryo Letters: 10
+Curr Opin Pharmacol: 10
+Adv Protein Chem Struct Biol: 10
+FEBS Open Bio: 10
+Genomics: 10
+J Sports Sci: 10
+Prostate: 10
+J Psychiatr Res: 10
+Dev Comp Immunol: 10
+Dig Liver Dis: 10
+Appl Biochem Biotechnol: 10
+Immun Ageing: 10
+Biomed Chromatogr: 10
+Oral Surg Oral Med Oral Pathol Oral Radiol: 10
+Biochem Cell Biol: 10
+Innate Immun: 10
+Biointerphases: 10
+Clin Interv Aging: 10
+Scand J Rheumatol: 10
+Mol Cell Neurosci: 10
+IEEE Trans Biomed Eng: 10
+Transgenic Res: 10
+Dev Dyn: 10
+Pharmacogenomics J: 10
+Genom Data: 10
+Zhonghua Yi Xue Yi Chuan Xue Za Zhi: 10
+Differentiation: 10
+J Nutr: 10
+Phys Rev E Stat Nonlin Soft Matter Phys: 10
+Nutr Hosp: 10
+Cells Tissues Organs: 10
+Curr Top Med Chem: 10
+Scand J Infect Dis: 10
+Poult Sci: 9
+Phytomedicine: 9
+Environ Int: 9
+Cancer Prev Res (Phila): 9
+eNeuro: 9
+Cell Mol Immunol: 9
+Expert Rev Mol Diagn: 9
+J Comput Aided Mol Des: 9
+Genet Med: 9
+Mol Neurodegener: 9
+Exp Biol Med (Maywood): 9
+Pediatr Diabetes: 9
+Hist Cienc Saude Manguinhos: 9
+J Magn Reson Imaging: 9
+BMC Biol: 9
+Biochem Med (Zagreb): 9
+Int J Chron Obstruct Pulmon Dis: 9
+Neurol Neuroimmunol Neuroinflamm: 9
+AAPS J: 9
+Biomed Mater: 9
+JAMA: 9
+Brain Pathol: 9
+Trials: 9
+Bioorg Chem: 9
+Iran J Basic Med Sci: 9
+J Sports Sci Med: 9
+Cell Biochem Funct: 9
+J Trace Elem Med Biol: 9
+Reprod Sci: 9
+Nat Rev Neurol: 9
+Reprod Biol: 9
+Transpl Int: 9
+Arch Iran Med: 9
+Endocr Relat Cancer: 9
+Semin Immunopathol: 9
+Med Res Rev: 9
+Clin Case Rep: 9
+Pediatr Infect Dis J: 9
+Front Med (Lausanne): 9
+J Clin Periodontol: 9
+Psychol Med: 9
+Sci Adv: 9
+Opt Lett: 9
+Eye (Lond): 9
+mSphere: 9
+Anim Reprod Sci: 9
+Virulence: 9
+Xenobiotica: 9
+Pediatr Blood Cancer: 9
+Enferm Infecc Microbiol Clin: 9
+J Obstet Gynaecol: 9
+Mol Cell Oncol: 9
+Psychoneuroendocrinology: 9
+Avian Pathol: 9
+J Acquir Immune Defic Syndr: 9
+Cell Host Microbe: 9
+MAbs: 9
+Cytotechnology: 9
+J Obstet Gynaecol Res: 9
+Drug Metab Dispos: 9
+Cell Transplant: 9
+J Cheminform: 9
+Cult Med Psychiatry: 9
+Microbiology: 9
+Biopreserv Biobank: 9
+Taiwan J Obstet Gynecol: 9
+JIMD Rep: 9
+Curr Pharm Biotechnol: 9
+Health Qual Life Outcomes: 9
+HIV Med: 9
+Virol J: 9
+Biol Chem: 9
+Biol Cell: 9
+BMC Health Serv Res: 9
+Diabetes Care: 9
+Physiol Genomics: 9
+Curr Drug Metab: 9
+Nurse Educ Today: 9
+Int J Neuropsychopharmacol: 9
+Menopause: 9
+J Inorg Biochem: 9
+Biometals: 9
+J Anat: 9
+J Pharm Sci: 9
+Parasitology: 9
+Genes Brain Behav: 9
+Clin Ther: 9
+N Engl J Med: 9
+Mol Ecol: 9
+Neuropsychologia: 9
+Arch Gerontol Geriatr: 9
+Eur J Haematol: 9
+Int J Immunopathol Pharmacol: 9
+Chemphyschem: 9
+BMC Musculoskelet Disord: 9
+Magn Reson Imaging: 9
+Int J Sports Med: 9
+Nat Mater: 9
+Mol Aspects Med: 9
+Physiol Rev: 9
+J Psychopharmacol: 9
+Cell Stress Chaperones: 9
+J Nutr Health Aging: 9
+J Physiol Pharmacol: 9
+Iran J Radiol: 9
+Cancer Biomark: 9
+Yearb Med Inform: 9
+Glycoconj J: 9
+Int J Clin Exp Med: 9
+Brain Stimul: 8
+Microb Drug Resist: 8
+Climacteric: 8
+Contrast Media Mol Imaging: 8
+Acta Neurobiol Exp (Wars): 8
+Trends Cancer: 8
+Epigenetics Chromatin: 8
+Inflammation: 8
+Eur J Public Health: 8
+Mol Biol Evol: 8
+Sheng Wu Gong Cheng Xue Bao: 8
+Metabolites: 8
+Lancet Oncol: 8
+Ann Clin Transl Neurol: 8
+Burns: 8
+Brain Imaging Behav: 8
+J Neurosurg: 8
+J Food Sci Technol: 8
+Nat Prod Rep: 8
+Brain Sci: 8
+J Ayurveda Integr Med: 8
+J Glob Antimicrob Resist: 8
+Stud Mycol: 8
+Rheumatol Int: 8
+Phytochemistry: 8
+Parkinsons Dis: 8
+J Zhejiang Univ Sci B: 8
+Glob Health Action: 8
+Inorg Chem: 8
+Scand J Clin Lab Invest: 8
+Reprod Domest Anim: 8
+Biosensors (Basel): 8
+J Virol Methods: 8
+Cell Death Discov: 8
+Clin Appl Thromb Hemost: 8
+J Feline Med Surg: 8
+ACS Omega: 8
+Respirology: 8
+Environ Toxicol Pharmacol: 8
+Curr Mol Med: 8
+Trends Microbiol: 8
+J Cancer: 8
+Dig Dis Sci: 8
+Scand J Public Health: 8
+ACS Infect Dis: 8
+Prion: 8
+Bioanalysis: 8
+Nat Nanotechnol: 8
+Expert Opin Pharmacother: 8
+Protein Pept Lett: 8
+Thyroid: 8
+Curr Med Res Opin: 8
+Eur J Clin Invest: 8
+J Clin Psychiatry: 8
+Neurobiol Learn Mem: 8
+Phytother Res: 8
+Alzheimers Dement: 8
+Sleep Breath: 8
+J Mol Endocrinol: 8
+J Hum Genet: 8
+J Sleep Res: 8
+Anim Cogn: 8
+J Rheumatol: 8
+Biochem Biophys Rep: 8
+Open Forum Infect Dis: 8
+Growth Factors: 8
+J Periodontol: 8
+J Biomed Sci: 8
+Best Pract Res Clin Endocrinol Metab: 8
+J Med Microbiol: 8
+J Mol Recognit: 8
+Ital J Food Saf: 8
+Genes Immun: 8
+Free Radic Res: 8
+Comput Math Methods Med: 8
+J Pharm Bioallied Sci: 8
+Int J Nurs Pract: 8
+Br J Psychiatry: 8
+Biomed Rep: 8
+J Inherit Metab Dis: 8
+Allergol Immunopathol (Madr): 8
+J Sep Sci: 8
+Hum Genet: 8
+Ther Deliv: 8
+J Reprod Infertil: 8
+Pharmacogenet Genomics: 8
+Animal: 8
+Joint Bone Spine: 8
+Breast Cancer Res Treat: 8
+Acad Med: 8
+Mini Rev Med Chem: 8
+Expert Opin Drug Saf: 8
+Ann Med: 8
+Curr Drug Targets: 8
+Virus Res: 8
+Health Inf Sci Syst: 8
+Acta Crystallogr Sect F Struct Biol Cryst Commun: 8
+Immunol Res: 7
+J Microbiol Biotechnol: 7
+Acta Neurochir (Wien): 7
+Trends Immunol: 7
+Enzyme Microb Technol: 7
+mSystems: 7
+Head Neck: 7
+Drugs: 7
+Transl Res: 7
+Eur J Sport Sci: 7
+Heliyon: 7
+J Drug Target: 7
+Vascul Pharmacol: 7
+Reprod Biol Endocrinol: 7
+J Vasc Surg: 7
+J Cardiovasc Nurs: 7
+Neurol Genet: 7
+Cancer Manag Res: 7
+Int J Epidemiol: 7
+Comput Struct Biotechnol J: 7
+Spine J: 7
+Phys Med Biol: 7
+Physiology (Bethesda): 7
+J Oral Rehabil: 7
+Clin Pharmacol Ther: 7
+Salud Colect: 7
+Int J Cardiovasc Imaging: 7
+Histopathology: 7
+Mediterr J Hematol Infect Dis: 7
+Oncologist: 7
+Biomolecules: 7
+Rev Sci Instrum: 7
+Am J Trop Med Hyg: 7
+CNS Neurol Disord Drug Targets: 7
+DNA Cell Biol: 7
+Math Biosci Eng: 7
+Chiropr Man Therap: 7
+Horm Metab Res: 7
+FEMS Microbiol Rev: 7
+Hum Reprod Update: 7
+Arch Biochem Biophys: 7
+Virol Sin: 7
+Pharmaceuticals (Basel): 7
+Exp Physiol: 7
+Nat Rev Neurosci: 7
+Exp Clin Endocrinol Diabetes: 7
+Mol Genet Metab Rep: 7
+Perspect Biol Med: 7
+Environ Microbiol Rep: 7
+BJU Int: 7
+Adipocyte: 7
+Autoimmun Rev: 7
+Clin Exp Hypertens: 7
+Heart Lung: 7
+J Sci Med Sport: 7
+Exp Mol Pathol: 7
+J Morphol: 7
+Biol Open: 7
+J Biol Inorg Chem: 7
+NPJ Syst Biol Appl: 7
+Mol Carcinog: 7
+Compr Psychiatry: 7
+J Clin Immunol: 7
+Lab Anim: 7
+Int J Colorectal Dis: 7
+JAMA Neurol: 7
+Mol Genet Genomic Med: 7
+Tuberculosis (Edinb): 7
+New Microbiol: 7
+Neuroimage Clin: 7
+Crit Care Med: 7
+Pharmacol Rep: 7
+Liver Int: 7
+Eur Psychiatry: 7
+Nucl Med Commun: 7
+Int J Ment Health Nurs: 7
+Neurosurgery: 7
+Handb Clin Neurol: 7
+Expert Rev Neurother: 7
+Proteomics Clin Appl: 7
+Infection: 7
+Lupus: 7
+Curr Opin Chem Biol: 7
+BMC Gastroenterol: 7
+Endocrine: 7
+Interface Focus: 7
+J Am Soc Mass Spectrom: 7
+Thorax: 7
+Reprod Toxicol: 7
+Cortex: 7
+Cytokine Growth Factor Rev: 7
+Behav Pharmacol: 7
+Dent Traumatol: 7
+Chem Biodivers: 7
+Aliment Pharmacol Ther: 7
+Med Educ: 7
+Cell Oncol (Dordr): 7
+Immunotherapy: 7
+Stem Cell Investig: 7
+J Bioeth Inq: 7
+Comput Med Imaging Graph: 7
+Surgery: 7
+Eur J Health Law: 7
+Multidiscip Respir Med: 7
+J Bacteriol: 7
+Pulm Pharmacol Ther: 7
+Pathog Dis: 7
+Appl Opt: 7
+Ultrason Sonochem: 7
+Nurs Inq: 7
+Artif Intell Med: 7
+Front Comput Neurosci: 7
+Bioresour Technol: 7
+Spine (Phila Pa 1976): 7
+Dev Growth Differ: 7
+Genet Epidemiol: 7
+Immun Inflamm Dis: 7
+Vet Immunol Immunopathol: 7
+Eur J Gastroenterol Hepatol: 7
+Croat Med J: 7
+Immunopharmacol Immunotoxicol: 7
+Acta Inform Med: 7
+In Vitro Cell Dev Biol Anim: 7
+Clin Transl Immunology: 7
+Blood Transfus: 7
+Front Biosci (Landmark Ed): 7
+J Thorac Oncol: 7
+Food Nutr Res: 7
+Int J Nurs Stud: 7
+Apoptosis: 7
+Front Syst Neurosci: 7
+Curr Opin Lipidol: 7
+Nutr Res: 7
+Cancer Inform: 7
+Int J Pediatr Otorhinolaryngol: 7
+IEEE Trans Inf Technol Biomed: 7
+Disabil Rehabil: 6
+Environ Toxicol Chem: 6
+J Immunother Cancer: 6
+Intensive Care Med: 6
+ACS Cent Sci: 6
+Vet Parasitol: 6
+Biomed Environ Sci: 6
+World J Biol Psychiatry: 6
+J Hum Hypertens: 6
+Biofabrication: 6
+Can J Physiol Pharmacol: 6
+Mol Ther Methods Clin Dev: 6
+Hypertens Res: 6
+Mol Cells: 6
+Cardiovasc Pathol: 6
+Am J Hypertens: 6
+Glob Public Health: 6
+J Asian Nat Prod Res: 6
+Cult Health Sex: 6
+J Vet Med Sci: 6
+Metab Eng: 6
+Am J Obstet Gynecol: 6
+Proteomes: 6
+Chem Cent J: 6
+Annu Rev Immunol: 6
+Schizophr Bull: 6
+J Appl Microbiol: 6
+J Nanopart Res: 6
+Neuropsychiatr Dis Treat: 6
+BMC Med Inform Decis Mak: 6
+Cell Calcium: 6
+J Hosp Infect: 6
+J Pain: 6
+Acta Anaesthesiol Scand: 6
+Pathol Oncol Res: 6
+Exp Anim: 6
+J Neurovirol: 6
+Vet Microbiol: 6
+Prog Brain Res: 6
+BMC Pediatr: 6
+Eur Spine J: 6
+J Toxicol Environ Health A: 6
+Clin Exp Med: 6
+Psychiatry Res Neuroimaging: 6
+Epidemiol Infect: 6
+Front Synaptic Neurosci: 6
+Biotechniques: 6
+Crit Rev Biotechnol: 6
+Ageing Res Rev: 6
+Acta Crystallogr F Struct Biol Commun: 6
+Subcell Biochem: 6
+BMC Med Res Methodol: 6
+J Urol: 6
+Sci Eng Ethics: 6
+Pain Res Manag: 6
+Cancer Epidemiol Biomarkers Prev: 6
+Oncology: 6
+BMC Evol Biol: 6
+Soc Stud Sci: 6
+Neuroradiol J: 6
+Biomed Mater Eng: 6
+Plast Reconstr Surg Glob Open: 6
+J Mol Diagn: 6
+J Manipulative Physiol Ther: 6
+FEMS Microbiol Lett: 6
+J Pediatr Gastroenterol Nutr: 6
+J Ovarian Res: 6
+Neuroendocrinology: 6
+Nat Rev Nephrol: 6
+Interdiscip Sci: 6
+World Psychiatry: 6
+Epigenomics: 6
+Mol Biotechnol: 6
+Neurosci Bull: 6
+Food Microbiol: 6
+Front Pediatr: 6
+Chin Med: 6
+Biol Direct: 6
+J Chem Phys: 6
+Curr Vasc Pharmacol: 6
+Mult Scler J Exp Transl Clin: 6
+R Soc Open Sci: 6
+Cardiovasc Diabetol: 6
+Seizure: 6
+Biomed J: 6
+Ecancermedicalscience: 6
+Eur J Intern Med: 6
+Cell Discov: 6
+Plasmid: 6
+Mass Spectrom Rev: 6
+Eur J Pediatr: 6
+Inflamm Res: 6
+Arch Med Sci: 6
+Acta Psychiatr Scand: 6
+Compr Physiol: 6
+Plant Physiol: 6
+Stem Cell Rev: 6
+BMC Struct Biol: 6
+Xenotransplantation: 6
+Exp Parasitol: 6
+Mod Pathol: 6
+Folia Biol (Praha): 6
+Arch Med Res: 6
+Clin Calcium: 6
+Biomark Med: 6
+Intern Emerg Med: 6
+Int Arch Allergy Immunol: 6
+Cancer: 6
+Med Oncol: 6
+Clin Proteomics: 6
+Mech Dev: 6
+Neurotox Res: 6
+Front Nutr: 6
+Nat Chem: 6
+Med Microbiol Immunol: 6
+Diabetes Metab Res Rev: 6
+Nutr Metab (Lond): 6
+Handb Exp Pharmacol: 6
+Mar Genomics: 6
+Forensic Sci Int Genet: 6
+Clin Neurol Neurosurg: 6
+J Clin Lipidol: 6
+Support Care Cancer: 6
+FEMS Microbiol Ecol: 6
+Diabet Med: 6
+J Membr Biol: 6
+Curr Opin Hematol: 6
+Acta Oncol: 6
+Int J Radiat Biol: 6
+Benef Microbes: 6
+Chromosoma: 6
+Am J Reprod Immunol: 6
+Biol Res: 6
+Cold Spring Harb Perspect Med: 6
+Circ Cardiovasc Genet: 6
+Eur Child Adolesc Psychiatry: 6
+Adv Funct Mater: 6
+J Med Ethics: 6
+J Ethnobiol Ethnomed: 6
+MethodsX: 6
+J Cardiovasc Pharmacol: 6
+Lasers Med Sci: 6
+Microbiologyopen: 6
+Int J Gynaecol Obstet: 6
+Urol Oncol: 6
+Surg Obes Relat Dis: 6
+Addict Biol: 6
+Cartilage: 6
+J Biomol NMR: 6
+HLA: 6
+J Clin Pathol: 6
+Anc Sci Life: 6
+Curr Opin Oncol: 6
+Epilepsy Res: 6
+J Renin Angiotensin Aldosterone Syst: 6
+Am J Respir Cell Mol Biol: 6
+Protein J: 6
+Vitam Horm: 6
+Mar Environ Res: 6
+Pediatrics: 6
+Essays Biochem: 6
+Rejuvenation Res: 6
+Wiley Interdiscip Rev Syst Biol Med: 6
+Int J Oral Sci: 6
+J Nucl Med: 6
+Cell Prolif: 6
+Nan Fang Yi Ke Da Xue Xue Bao: 6
+Int J Artif Organs: 6
+Acta Otorhinolaryngol Ital: 6
+J Res Med Sci: 6
+Transplant Proc: 6
+J Am Assoc Lab Anim Sci: 6
+Pac Symp Biocomput: 6
+J Interferon Cytokine Res: 6
+Fam Cancer: 6
+Hepatol Res: 6
+Mol Endocrinol: 6
+Nat Rev Genet: 6
+Mol Phylogenet Evol: 6
+Rapid Commun Mass Spectrom: 6
+Age (Dordr): 6
+Comp Biochem Physiol A Mol Integr Physiol: 6
+Growth Horm IGF Res: 6
+Comb Chem High Throughput Screen: 6
+Int Microbiol: 6
+AJNR Am J Neuroradiol: 6
+Indian J Med Res: 6
+Clin Dev Immunol: 6
+Rev Derecho Genoma Hum: 6
+Appl Physiol Nutr Metab: 5
+Biochem Mol Biol Educ: 5
+Curr Opin Neurol: 5
+Lung Cancer: 5
+Equine Vet J: 5
+Vector Borne Zoonotic Dis: 5
+Eur Arch Psychiatry Clin Neurosci: 5
+Food Res Int: 5
+Clin Rehabil: 5
+Rehabil Nurs: 5
+Hastings Cent Rep: 5
+Med Sci (Basel): 5
+Mol Vis: 5
+Drug Dev Ind Pharm: 5
+Sleep Med: 5
+Biochim Biophys Acta Gene Regul Mech: 5
+J Sci Food Agric: 5
+Probiotics Antimicrob Proteins: 5
+Pharmaceutics: 5
+Toxicol Res (Camb): 5
+Mycoses: 5
+Biochim Biophys Acta Rev Cancer: 5
+Mar Pollut Bull: 5
+Acta Vet Scand: 5
+Bio Protoc: 5
+Int Immunol: 5
+Front Med: 5
+Eur J Cancer Care (Engl): 5
+Front Neural Circuits: 5
+Per Med: 5
+Neurogenetics: 5
+Arch Physiol Biochem: 5
+Int J Parasitol: 5
+Animals (Basel): 5
+Int J Med Inform: 5
+Aging Male: 5
+Pathol Res Pract: 5
+Pain Med: 5
+Crit Rev Clin Lab Sci: 5
+Metab Brain Dis: 5
+Biotechnol Prog: 5
+Cancer Immunol Res: 5
+Eat Weight Disord: 5
+Cancer Metab: 5
+Case Rep Dent: 5
+J Inflamm (Lond): 5
+Curr Opin Neurobiol: 5
+Br J Anaesth: 5
+Mol Genet Genomics: 5
+Explore (NY): 5
+Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub: 5
+Cancer Biol Med: 5
+Biotechnol Appl Biochem: 5
+Mol Syndromol: 5
+Cell Immunol: 5
+J Neurogenet: 5
+BMJ Case Rep: 5
+Medchemcomm: 5
+Ann Hepatol: 5
+Arch Phys Med Rehabil: 5
+Prostaglandins Other Lipid Mediat: 5
+Int J Med Microbiol: 5
+Nitric Oxide: 5
+Results Probl Cell Differ: 5
+J Prev Med Hyg: 5
+World J Stem Cells: 5
+Crit Care: 5
+Proc Biol Sci: 5
+Euro Surveill: 5
+NPJ Vaccines: 5
+Shock: 5
+Trends Cardiovasc Med: 5
+Curr Opin Microbiol: 5
+United European Gastroenterol J: 5
+Membranes (Basel): 5
+Environ Res: 5
+Health Commun: 5
+IEEE/ACM Trans Comput Biol Bioinform: 5
+J Forensic Leg Med: 5
+Bone Marrow Transplant: 5
+Int J Biol Markers: 5
+Account Res: 5
+J Cyst Fibros: 5
+J Bodyw Mov Ther: 5
+Nat Rev Mol Cell Biol: 5
+AMIA Annu Symp Proc: 5
+Trop Med Int Health: 5
+Transpl Infect Dis: 5
+Lancet Respir Med: 5
+Int J Hyg Environ Health: 5
+Recenti Prog Med: 5
+Anat Sci Educ: 5
+Curr Genomics: 5
+Kidney Int Rep: 5
+Open Biol: 5
+Pak J Pharm Sci: 5
+Bioprocess Biosyst Eng: 5
+Endocr Connect: 5
+In Vivo: 5
+Eur J Prev Cardiol: 5
+J Immunother: 5
+BMC Geriatr: 5
+Mod Rheumatol: 5
+Crit Rev Food Sci Nutr: 5
+Injury: 5
+Retina: 5
+Am J Cardiol: 5
+Childs Nerv Syst: 5
+Front Integr Neurosci: 5
+Pharmacol Res Perspect: 5
+Nutr Cancer: 5
+Genomics Proteomics Bioinformatics: 5
+Metabolomics: 5
+Clin Orthop Relat Res: 5
+Cell Biosci: 5
+Public Health Nutr: 5
+BMC Pulm Med: 5
+Res Microbiol: 5
+Prog Mol Biol Transl Sci: 5
+Microb Cell: 5
+Cancer Metastasis Rev: 5
+Urology: 5
+J Diabetes: 5
+Biogerontology: 5
+Biomed Khim: 5
+Immunol Invest: 5
+Blood Cells Mol Dis: 5
+J Pediatr: 5
+Int J Stroke: 5
+Int J Genomics: 5
+Pharmacogn Mag: 5
+Eur Heart J Cardiovasc Imaging: 5
+Eur J Cardiovasc Nurs: 5
+J Oral Microbiol: 5
+Eur Respir Rev: 5
+Eur Heart J Acute Cardiovasc Care: 5
+Gait Posture: 5
+Nat Rev Endocrinol: 5
+Int J Food Sci Nutr: 5
+Am J Hematol: 5
+J Neurotrauma: 5
+Recent Pat Nanotechnol: 5
+J Fish Dis: 5
+Med Biol Eng Comput: 5
+Hum Gene Ther Methods: 5
+J Med Case Rep: 5
+Water Res: 5
+Gerontology: 5
+Biofactors: 5
+J Investig Med: 5
+NPJ Microgravity: 5
+Reprod Fertil Dev: 5
+Anesth Analg: 5
+IEEE Trans Nanobioscience: 5
+Eur J Cancer Prev: 5
+J Surg Res: 5
+Retrovirology: 5
+BMC Ophthalmol: 5
+Ecol Evol: 5
+Soc Cogn Affect Neurosci: 5
+Biophys Chem: 5
+Case Rep Obstet Gynecol: 5
+BMC Immunol: 5
+Photomed Laser Surg: 5
+Clin Nucl Med: 5
+Curr Opin Nephrol Hypertens: 5
+Heart Rhythm: 5
+Genesis: 5
+AIDS Res Hum Retroviruses: 5
+Eur Biophys J: 5
+Rev Esp Med Nucl Imagen Mol: 5
+Cad Saude Publica: 5
+Eur J Dermatol: 5
+Brain Cogn: 5
+Infect Genet Evol: 5
+Z Gerontol Geriatr: 5
+Am J Bioeth: 5
+Protein Eng Des Sel: 5
+J Recept Signal Transduct Res: 5
+Gene Ther: 5
+ACS Comb Sci: 5
+J Biomater Appl: 5
+Clin J Am Soc Nephrol: 5
+EPMA J: 5
+Cancer Genet: 5
+Reprod Med Biol: 5
+Oncoscience: 5
+Global Health: 5
+Yao Xue Xue Bao: 5
+Regul Pept: 5
+J Vasc Res: 5
+J Int Bioethique: 5
+Mol Inform: 5
+Coll Antropol: 5
+Clinics (Sao Paulo): 5
+J Nucleic Acids: 5
+Curr HIV Res: 5
+Future Sci OA: 4
+J Geriatr Psychiatry Neurol: 4
+Antioxidants (Basel): 4
+Early Interv Psychiatry: 4
+Int Rev Immunol: 4
+Int J Gynecol Cancer: 4
+Eur J Orthod: 4
+Hum Psychopharmacol: 4
+J Neuromuscul Dis: 4
+BMC Genet: 4
+Gastric Cancer: 4
+Genomics Inform: 4
+Transbound Emerg Dis: 4
+Laryngoscope: 4
+PLoS Med: 4
+Adv Ther: 4
+J Postgrad Med: 4
+Expert Rev Clin Immunol: 4
+Aging Dis: 4
+Reprod Health: 4
+J Funct Biomater: 4
+J Int Med Res: 4
+Scientometrics: 4
+Phys Ther Sport: 4
+Mar Biotechnol (NY): 4
+J Mol Model: 4
+J Cancer Res Ther: 4
+Clin Exp Reprod Med: 4
+J Endocr Soc: 4
+Clin Epidemiol: 4
+J Microencapsul: 4
+Food Addit Contam Part A Chem Anal Control Expo Risk Assess: 4
+Mikrochim Acta: 4
+COPD: 4
+Occup Med (Lond): 4
+Zootaxa: 4
+Mol Diagn Ther: 4
+ILAR J: 4
+Prostaglandins Leukot Essent Fatty Acids: 4
+Urol J: 4
+Clin Transl Oncol: 4
+Behav Processes: 4
+Chem Biol Drug Des: 4
+Neurotherapeutics: 4
+Trends Neurosci: 4
+Zhongguo Zhong Yao Za Zhi: 4
+Med Vet Entomol: 4
+J Epidemiol Community Health: 4
+Can J Gastroenterol Hepatol: 4
+Int J Behav Nutr Phys Act: 4
+Radiat Oncol: 4
+Pharm Biol: 4
+Med Health Care Philos: 4
+J Nurs Scholarsh: 4
+RMD Open: 4
+Prep Biochem Biotechnol: 4
+Appl Nurs Res: 4
+Theor Med Bioeth: 4
+J Clin Exp Dent: 4
+Photodiagnosis Photodyn Ther: 4
+J Med Primatol: 4
+Am J Dermatopathol: 4
+Cardiovasc Ther: 4
+Inflammopharmacology: 4
+Braz J Infect Dis: 4
+Trends Genet: 4
+Otol Neurotol: 4
+J Innate Immun: 4
+Zygote: 4
+Arthritis Rheumatol: 4
+BMC Proc: 4
+Clin Transl Med: 4
+Can J Cardiol: 4
+Drug Deliv: 4
+Br J Sports Med: 4
+Therap Adv Gastroenterol: 4
+Int J Ment Health Syst: 4
+Yale J Biol Med: 4
+G Ital Dermatol Venereol: 4
+Int J Equity Health: 4
+Expert Rev Vaccines: 4
+Ther Clin Risk Manag: 4
+Ig Sanita Pubbl: 4
+Virchows Arch: 4
+Toxicol Rep: 4
+Physiol Res: 4
+Fetal Diagn Ther: 4
+J Nurs Manag: 4
+J Food Sci: 4
+Int Rev Neurobiol: 4
+Microvasc Res: 4
+Meat Sci: 4
+Physiother Theory Pract: 4
+Nephrology (Carlton): 4
+Int J Ophthalmol: 4
+Pain Res Treat: 4
+3 Biotech: 4
+IET Nanobiotechnol: 4
+Kidney Blood Press Res: 4
+Curr Neurol Neurosci Rep: 4
+J Phys Condens Matter: 4
+J Child Neurol: 4
+Expert Opin Drug Metab Toxicol: 4
+Clin Transl Gastroenterol: 4
+Circ Heart Fail: 4
+Bipolar Disord: 4
+World J Emerg Surg: 4
+Bone Rep: 4
+Adv Clin Exp Med: 4
+Pharmacol Rev: 4
+Acta Cir Bras: 4
+Pain Rep: 4
+Iran J Public Health: 4
+Healthc Technol Lett: 4
+Am J Case Rep: 4
+Cancer Treat Rev: 4
+Phys Rev E: 4
+J Neurol Surg A Cent Eur Neurosurg: 4
+JAMA Oncol: 4
+Circ Genom Precis Med: 4
+Malar J: 4
+Minerva Med: 4
+J Musculoskelet Neuronal Interact: 4
+Curr Opin Gastroenterol: 4
+Trends Parasitol: 4
+J Am Acad Dermatol: 4
+Nutr Diabetes: 4
+AMB Express: 4
+Psychol Health Med: 4
+Mol Oral Microbiol: 4
+Curr Cancer Drug Targets: 4
+Korean J Parasitol: 4
+Tissue Eng Part B Rev: 4
+Curr Stem Cell Res Ther: 4
+Q J Nucl Med Mol Imaging: 4
+Gut Microbes: 4
+Antonie Van Leeuwenhoek: 4
+Rev Esp Cardiol (Engl Ed): 4
+Int J Infect Dis: 4
+J Bone Miner Metab: 4
+Am J Med: 4
+J Comp Pathol: 4
+Am J Chin Med: 4
+J Gene Med: 4
+Ren Fail: 4
+NeuroRehabilitation: 4
+Connect Tissue Res: 4
+Mol Imaging Biol: 4
+Prog Biophys Mol Biol: 4
+Chem Rec: 4
+Integr Biol (Camb): 4
+Int Ophthalmol: 4
+Fish Physiol Biochem: 4
+Bioinformation: 4
+Mol Clin Oncol: 4
+Adv Biomed Res: 4
+Expert Opin Investig Drugs: 4
+J Pharmacokinet Pharmacodyn: 4
+Wound Repair Regen: 4
+J Anim Sci Biotechnol: 4
+Med Mycol: 4
+Phys Rev Lett: 4
+Curr Opin Clin Nutr Metab Care: 4
+Target Oncol: 4
+Curr Microbiol: 4
+Pharmacognosy Res: 4
+BMC Pharmacol Toxicol: 4
+Br J Ophthalmol: 4
+Spinal Cord: 4
+Med Sci Law: 4
+Hormones (Athens): 4
+Int J Legal Med: 4
+Vaccines (Basel): 4
+Breast: 4
+Int J Clin Pharm: 4
+J Nephrol: 4
+Fluids Barriers CNS: 4
+IEEE Pulse: 4
+Invest New Drugs: 4
+Transfus Apher Sci: 4
+Philos Ethics Humanit Med: 4
+J Diabetes Complications: 4
+Infect Agent Cancer: 4
+Exp Hematol Oncol: 4
+Anat Cell Biol: 4
+Neurodegener Dis: 4
+Curr Genet: 4
+Nat Rev Gastroenterol Hepatol: 4
+J Reprod Immunol: 4
+Eur J Cardiothorac Surg: 4
+Chaos: 4
+Brain Topogr: 4
+Clin J Pain: 4
+BMC Neurosci: 4
+J Biomater Sci Polym Ed: 4
+Int J Circumpolar Health: 4
+Biophys Rev: 4
+Toxicol Mech Methods: 4
+Arch Virol: 4
+Microbiol Res: 4
+Int Rev Cell Mol Biol: 4
+New Microbes New Infect: 4
+Perit Dial Int: 4
+BMC Dev Biol: 4
+Orthod Craniofac Res: 4
+Transfus Med Hemother: 4
+Vet Clin Pathol: 4
+Vet Res Commun: 4
+Oman Med J: 4
+Haemophilia: 4
+Anesthesiology: 4
+J Fluoresc: 4
+Int J Prev Med: 4
+Int J Eat Disord: 4
+Neuropeptides: 4
+Drug Test Anal: 4
+Amyloid: 4
+Med Clin (Barc): 4
+Semin Arthritis Rheum: 4
+Neurotoxicology: 4
+Dose Response: 4
+Clin Transl Allergy: 4
+Rev Med Chil: 4
+Diab Vasc Dis Res: 4
+Clin Ter: 4
+J Insect Physiol: 4
+J Biomol Tech: 4
+Faraday Discuss: 4
+Front Vet Sci: 4
+Tissue Barriers: 4
+BMC Med Ethics: 4
+Biol Lett: 4
+Microbiol Spectr: 4
+Int J Radiat Oncol Biol Phys: 4
+Acta Naturae: 4
+Nat Rev Urol: 4
+Chem Res Toxicol: 4
+Pancreas: 4
+Cytometry B Clin Cytom: 4
+Rev Inst Med Trop Sao Paulo: 4
+PPAR Res: 4
+Nutr J: 4
+J Ultrasound Med: 4
+Sheng Li Xue Bao: 4
+Metallomics: 4
+J Biomol Screen: 4
+Radiology: 4
+J Glaucoma: 4
+ChemistryOpen: 4
+Lett Appl Microbiol: 4
+Biomicrofluidics: 4
+Telemed J E Health: 4
+Mycopathologia: 4
+Annu Rev Anal Chem (Palo Alto Calif): 4
+Bonekey Rep: 4
+Luminescence: 4
+Adv Wound Care (New Rochelle): 4
+Curr Top Dev Biol: 4
+Helicobacter: 4
+Blood Coagul Fibrinolysis: 4
+Eur Cell Mater: 4
+Appl Clin Inform: 4
+Int J Surg: 4
+Gene Expr Patterns: 4
+BMC Mol Biol: 4
+J Ind Microbiol Biotechnol: 4
+Behav Brain Funct: 4
+Curr Neurovasc Res: 4
+Libyan J Med: 4
+JAKSTAT: 4
+J Magn Reson: 4
+Open Orthop J: 4
+Hepat Mon: 4
+Angle Orthod: 4
+Public Underst Sci: 4
+Adv Biochem Eng Biotechnol: 4
+Allergy Asthma Immunol Res: 4
+Gynecol Obstet Fertil: 4
+J Anim Sci: 4
+Infez Med: 4
+Exp Toxicol Pathol: 4
+Asian Pac J Trop Biomed: 4
+IEEE J Biomed Health Inform: 4
+Adv Cancer Res: 4
+Proteome Sci: 4
+Allergol Int: 4
+Med Law: 4
+Gland Surg: 4
+Expert Opin Med Diagn: 4
+J Liq Chromatogr Relat Technol: 4
+FEMS Immunol Med Microbiol: 4
+Prev Vet Med: 4
+Zhong Xi Yi Jie He Xue Bao: 4
+Isis: 4
+Eur J Transl Myol: 3
+Expert Opin Biol Ther: 3
+Angiology: 3
+J Infect Chemother: 3
+BMC Fam Pract: 3
+iScience: 3
+J Clin Pharmacol: 3
+Methods Cell Biol: 3
+Chin Med J (Engl): 3
+J Clin Monit Comput: 3
+Daru: 3
+Biomed Microdevices: 3
+Acta Crystallogr D Struct Biol: 3
+Tissue Eng Regen Med: 3
+Brain Plast: 3
+BMC Plant Biol: 3
+J Med Food: 3
+J Bone Oncol: 3
+DNA Res: 3
+Endocr Rev: 3
+Expert Rev Med Devices: 3
+Biol Rev Camb Philos Soc: 3
+NPJ Genom Med: 3
+Wiley Interdiscip Rev Dev Biol: 3
+J Phys Ther Sci: 3
+J Psychiatry Neurosci: 3
+Med Hist: 3
+JACC Cardiovasc Imaging: 3
+Biom J: 3
+JMIR Res Protoc: 3
+Expert Rev Hematol: 3
+Dermatol Ther: 3
+Adv Biol Regul: 3
+Semin Hematol: 3
+Iran Biomed J: 3
+J Burn Care Res: 3
+Ann Vasc Surg: 3
+Mol Biochem Parasitol: 3
+Biochim Biophys Acta Proteins Proteom: 3
+Clin Breast Cancer: 3
+Diabetes Metab Syndr Obes: 3
+Hamostaseologie: 3
+Microb Genom: 3
+Microbiol Immunol: 3
+Blood Press: 3
+Hippocampus: 3
+J Mol Graph Model: 3
+Regul Toxicol Pharmacol: 3
+Dis Colon Rectum: 3
+J Sport Health Sci: 3
+Synapse: 3
+Int J Soc Psychiatry: 3
+Acta Clin Croat: 3
+Micromachines (Basel): 3
+J Sex Med: 3
+Melanoma Res: 3
+Methods Appl Fluoresc: 3
+Nat Rev Microbiol: 3
+Drug Chem Toxicol: 3
+Rev Recent Clin Trials: 3
+Drugs Aging: 3
+World J Cardiol: 3
+Interact Cardiovasc Thorac Surg: 3
+Eur J Dent: 3
+Environ Mol Mutagen: 3
+J Pathol Clin Res: 3
+Heredity (Edinb): 3
+Curr Diab Rep: 3
+Res Pract Thromb Haemost: 3
+Gut Pathog: 3
+Midwifery: 3
+Qual Life Res: 3
+Hear Res: 3
+Microsc Microanal: 3
+Heart Lung Circ: 3
+Crit Rev Oncog: 3
+Rev Assoc Med Bras (1992): 3
+Dev Med Child Neurol: 3
+Antimicrob Resist Infect Control: 3
+Parasitol Int: 3
+Ann Ist Super Sanita: 3
+Clin EEG Neurosci: 3
+Front Surg: 3
+Adv Virus Res: 3
+Indian J Microbiol: 3
+Transplant Direct: 3
+Int Wound J: 3
+Germs: 3
+J Food Drug Anal: 3
+Obes Rev: 3
+Am J Nucl Med Mol Imaging: 3
+Biomol NMR Assign: 3
+Mol Plant: 3
+Mol Ecol Resour: 3
+Acta Radiol: 3
+Minerva Anestesiol: 3
+Gastroenterol Res Pract: 3
+Neuropathology: 3
+Iran J Neurol: 3
+Expert Rev Clin Pharmacol: 3
+Hematol Oncol: 3
+Saudi J Biol Sci: 3
+Food Environ Virol: 3
+Microorganisms: 3
+Semin Immunol: 3
+Best Pract Res Clin Obstet Gynaecol: 3
+Photochem Photobiol Sci: 3
+Neurodegener Dis Manag: 3
+J Biochem: 3
+Adv Med Sci: 3
+Appetite: 3
+Epileptic Disord: 3
+ESMO Open: 3
+Int J Surg Case Rep: 3
+Curr Neuropharmacol: 3
+J Med Humanit: 3
+JPEN J Parenter Enteral Nutr: 3
+Pediatr Nephrol: 3
+Case Rep Med: 3
+Biologicals: 3
+Biotechnol Biofuels: 3
+J Pers Disord: 3
+Signal Transduct Target Ther: 3
+Stat Methods Med Res: 3
+Sleep: 3
+Ann Allergy Asthma Immunol: 3
+Nat Rev Dis Primers: 3
+Indian J Nucl Med: 3
+J Med Syst: 3
+Am J Ophthalmol: 3
+J Vasc Interv Radiol: 3
+Public Health: 3
+Knee Surg Sports Traumatol Arthrosc: 3
+Curr Protoc Bioinformatics: 3
+Microcirculation: 3
+Ophthalmic Genet: 3
+J Clin Psychopharmacol: 3
+BMB Rep: 3
+Pract Neurol: 3
+Ann Surg: 3
+Intern Med J: 3
+Yakugaku Zasshi: 3
+Altern Lab Anim: 3
+Scand J Caring Sci: 3
+J Environ Manage: 3
+Ann Nucl Med: 3
+Am J Clin Pathol: 3
+Diabetol Metab Syndr: 3
+J Womens Health (Larchmt): 3
+Patient Prefer Adherence: 3
+J Allergy Clin Immunol Pract: 3
+Bioact Mater: 3
+Osong Public Health Res Perspect: 3
+Jpn J Infect Dis: 3
+J Invest Surg: 3
+ERJ Open Res: 3
+Adv Pharm Bull: 3
+Breastfeed Med: 3
+Pol J Vet Sci: 3
+J Paediatr Child Health: 3
+Pituitary: 3
+J Invertebr Pathol: 3
+Clin Dysmorphol: 3
+Int J Adolesc Med Health: 3
+Eur J Cell Biol: 3
+Dev Neurobiol: 3
+Arch Insect Biochem Physiol: 3
+Mutat Res: 3
+Insect Biochem Mol Biol: 3
+J Pain Symptom Manage: 3
+Fungal Genet Biol: 3
+Virus Genes: 3
+Cancer Nurs: 3
+J Nutr Metab: 3
+Nucl Med Biol: 3
+G Ital Nefrol: 3
+Clin Drug Investig: 3
+Curr Gene Ther: 3
+BMJ: 3
+Fly (Austin): 3
+Front Public Health: 3
+BMJ Open Respir Res: 3
+Circ J: 3
+J Craniomaxillofac Surg: 3
+Hum Genomics: 3
+Skin Res Technol: 3
+J Wildl Dis: 3
+Acta Obstet Gynecol Scand: 3
+Expert Rev Mol Med: 3
+Ann Palliat Med: 3
+Auton Neurosci: 3
+Neuro Endocrinol Lett: 3
+Pathog Glob Health: 3
+Horm Behav: 3
+Clin Transplant: 3
+Curr Ther Res Clin Exp: 3
+Environ Toxicol: 3
+NPJ Breast Cancer: 3
+Hered Cancer Clin Pract: 3
+Clin Mol Allergy: 3
+Exp Lung Res: 3
+Comput Biol Chem: 3
+Hist Philos Life Sci: 3
+Parasite Immunol: 3
+Eur J Radiol: 3
+Complement Ther Clin Pract: 3
+Transl Lung Cancer Res: 3
+Scanning: 3
+Am J Hum Biol: 3
+Stand Genomic Sci: 3
+Comp Biochem Physiol C Toxicol Pharmacol: 3
+Int J STD AIDS: 3
+Anal Methods: 3
+J Water Health: 3
+BMC Endocr Disord: 3
+Allergy Asthma Clin Immunol: 3
+Math Biosci: 3
+Brief Funct Genomics: 3
+Environ Health Perspect: 3
+Altern Ther Health Med: 3
+Lab Anim (NY): 3
+J Chromatogr Sci: 3
+Am J Psychiatry: 3
+Arch Pharm Res: 3
+Biosci Trends: 3
+Audiol Neurootol: 3
+Res Nurs Health: 3
+High Alt Med Biol: 3
+Transcult Psychiatry: 3
+Crit Rev Ther Drug Carrier Syst: 3
+J Gastrointest Cancer: 3
+J Basic Microbiol: 3
+Biomed Res: 3
+J Int AIDS Soc: 3
+Mech Ageing Dev: 3
+Autism Res: 3
+Open Med (Wars): 3
+Mamm Genome: 3
+Rev Lat Am Enfermagem: 3
+Arch Dermatol Res: 3
+Chimia (Aarau): 3
+Biochim Biophys Acta Mol Cell Biol Lipids: 3
+Nurs Outlook: 3
+Afr J Tradit Complement Altern Med: 3
+Purinergic Signal: 3
+Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi: 3
+Wiley Interdiscip Rev RNA: 3
+Pril (Makedon Akad Nauk Umet Odd Med Nauki): 3
+J Comput Biol: 3
+Genes Nutr: 3
+Braz J Otorhinolaryngol: 3
+Carbohydr Res: 3
+Pain Physician: 3
+J Voice: 3
+J Exp Orthop: 3
+Mol Ther Oncolytics: 3
+Issues Ment Health Nurs: 3
+Clin J Sport Med: 3
+Ultrasonics: 3
+Aust N Z J Psychiatry: 3
+Front Biosci (Elite Ed): 3
+J Nutrigenet Nutrigenomics: 3
+Ann Am Thorac Soc: 3
+J Hist Biol: 3
+J Gastrointestin Liver Dis: 3
+Diabetes Technol Ther: 3
+Aust Dent J: 3
+Acta Orthop: 3
+Genet Mol Biol: 3
+Crit Rev Oncol Hematol: 3
+Med Sci (Paris): 3
+Am Heart J: 3
+Int J Urol: 3
+Eur J Heart Fail: 3
+Neurourol Urodyn: 3
+Nanotechnol Sci Appl: 3
+Resuscitation: 3
+Iran J Allergy Asthma Immunol: 3
+Oral Oncol: 3
+Int J Dev Neurosci: 3
+Med Intensiva: 3
+FEMS Yeast Res: 3
+Dyslexia: 3
+J Cachexia Sarcopenia Muscle: 3
+Neuroimmunomodulation: 3
+Can Vet J: 3
+Transl Med UniSa: 3
+Biol Sex Differ: 3
+Biol Trace Elem Res: 3
+J Neuroimaging: 3
+Aust N Z J Obstet Gynaecol: 3
+Int J Dent Hyg: 3
+Temperature (Austin): 3
+Br Dent J: 3
+Int J Comput Assist Radiol Surg: 3
+Amyotroph Lateral Scler Frontotemporal Degener: 3
+J Cardiovasc Pharmacol Ther: 3
+J Diabetes Sci Technol: 3
+Nano Res: 3
+Ann Thorac Surg: 3
+J Math Biol: 3
+Arch Immunol Ther Exp (Warsz): 3
+Auris Nasus Larynx: 3
+J Atten Disord: 3
+The Edinburgh Companion to the Critical Medical Humanities: 3
+Small GTPases: 3
+Health Res Policy Syst: 3
+J Psychiatr Ment Health Nurs: 3
+Rare Dis: 3
+Int J Rheumatol: 3
+Gene Regul Syst Bio: 3
+Pediatr Obes: 3
+J Med Internet Res: 3
+Zhonghua Nan Ke Xue: 3
+Vision Res: 3
+Clin Med Insights Cardiol: 3
+J Clin Oncol: 3
+Mitochondrial DNA A DNA Mapp Seq Anal: 3
+Plast Reconstr Surg: 3
+Int J Neurosci: 3
+Skelet Muscle: 3
+Afr J AIDS Res: 3
+Forsch Komplementmed: 3
+Eur J Paediatr Neurol: 3
+Fam Syst Health: 3
+Ther Drug Monit: 3
+Clin Oral Implants Res: 3
+World J Microbiol Biotechnol: 3
+Diagn Pathol: 3
+Mol Cell Ther: 3
+Cell Mol Gastroenterol Hepatol: 3
+Dent Mater J: 3
+Curr Protoc Nucleic Acid Chem: 3
+Zhongguo Zhen Jiu: 3
+Eur J Vasc Endovasc Surg: 3
+Int J Cell Biol: 3
+J Neurosurg Sci: 3
+Dermatology: 3
+Lancet Diabetes Endocrinol: 3
+Br J Radiol: 3
+Br J Neurosurg: 3
+J Acoust Soc Am: 3
+Clin Vaccine Immunol: 3
+Int J Microbiol: 3
+Adv Pharmacol: 3
+Sarcoma: 3
+J Cardiovasc Med (Hagerstown): 3
+Cuad Bioet: 3
+ASN Neuro: 3
+J Psychosom Res: 3
+Uisahak: 3
+JAMA Dermatol: 3
+Aviakosm Ekolog Med: 3
+Mob Genet Elements: 3
+J Allergy (Cairo): 3
+Curr Rheumatol Rev: 3
+Sao Paulo Med J: 3
+New Genet Soc: 3
+J Biol Dyn: 3
+Appl Math Lett: 3
+Medicina (B Aires): 3
+Am J Dent: 3
+Arzneimittelforschung: 3
+Int J Androl: 3
+Cardiovasc Hematol Agents Med Chem: 3
+J Biomed Biotechnol: 3
+Contraception: 3
+J Ocul Pharmacol Ther: 3
+Recent Pat DNA Gene Seq: 3
+Mol Divers: 3
+IEEE Trans Pattern Anal Mach Intell: 3
+Rhinology: 3
+Biol Pharm Bull: 3
+Sci Bull (Beijing): 2
+J Transl Sci: 2
+JSLS: 2
+Bioengineering (Basel): 2
+Commun Biol: 2
+Microb Ecol Health Dis: 2
+Curr HIV/AIDS Rep: 2
+JAMA Netw Open: 2
+Cerebrovasc Dis: 2
+Diabetes Metab Syndr: 2
+Harmful Algae: 2
+J Palliat Med: 2
+Arch Rheumatol: 2
+J Oncol: 2
+Psychiatry Clin Neurosci: 2
+Immunohematology: 2
+Health Promot J Austr: 2
+J Tissue Eng: 2
+Foods: 2
+Headache: 2
+SLAS Discov: 2
+Lancet Child Adolesc Health: 2
+Ann Emerg Med: 2
+Fungal Biol Biotechnol: 2
+J Med Biochem: 2
+World J Mens Health: 2
+J Parkinsons Dis: 2
+Radiol Case Rep: 2
+Mol Autism: 2
+J Gastroenterol Hepatol: 2
+eNeurologicalSci: 2
+Pulmonology: 2
+Z Med Phys: 2
+Prog Retin Eye Res: 2
+Colorectal Dis: 2
+Inhal Toxicol: 2
+Light Sci Appl: 2
+Obstet Gynecol: 2
+Int Clin Psychopharmacol: 2
+Acta Bioeng Biomech: 2
+Environ Health: 2
+Nurse Res: 2
+Skeletal Radiol: 2
+Indian J Dermatol: 2
+Zhejiang Da Xue Xue Bao Yi Xue Ban: 2
+Surg Endosc: 2
+NPJ Biofilms Microbiomes: 2
+J Am Soc Echocardiogr: 2
+Alzheimers Dement (Amst): 2
+J Biol Eng: 2
+Pathology: 2
+Indian J Med Ethics: 2
+Drug Discov Today Technol: 2
+Biol Sport: 2
+J Child Adolesc Psychopharmacol: 2
+Ticks Tick Borne Dis: 2
+Blood Rev: 2
+Pediatr Transplant: 2
+Aging Ment Health: 2
+Balkan J Med Genet: 2
+Biomedicines: 2
+Nat Ecol Evol: 2
+Acta Med Port: 2
+Anticancer Agents Med Chem: 2
+Inj Epidemiol: 2
+Genetica: 2
+J Esthet Restor Dent: 2
+Psychogeriatrics: 2
+J Clin Sleep Med: 2
+Chronobiol Int: 2
+Vet Med (Auckl): 2
+Nurs Ethics: 2
+BMC Cardiovasc Disord: 2
+Vet Rec: 2
+Int J Clin Pract: 2
+J Law Med Ethics: 2
+J Clin Neurosci: 2
+Int J Med Mushrooms: 2
+World J Surg Oncol: 2
+Minerva Ginecol: 2
+Open Dent J: 2
+Iran J Child Neurol: 2
+Curr Treat Options Oncol: 2
+J Breast Cancer: 2
+Leg Med (Tokyo): 2
+Genes Cells: 2
+Nucleus: 2
+Pharmgenomics Pers Med: 2
+Curr Cardiol Rep: 2
+J Equine Sci: 2
+Crit Rev Biochem Mol Biol: 2
+J Glob Oncol: 2
+Int J Hematol Oncol Stem Cell Res: 2
+Am Soc Clin Oncol Educ Book: 2
+J Pers Med: 2
+J Educ Eval Health Prof: 2
+Narrat Inq Bioeth: 2
+Pediatr Neonatol: 2
+Chronic Illn: 2
+J Mammary Gland Biol Neoplasia: 2
+J Perinatol: 2
+BJPsych Open: 2
+Plant Methods: 2
+Camb Q Healthc Ethics: 2
+Br J Nurs: 2
+Neurosurg Rev: 2
+Breathe (Sheff): 2
+BMC Anesthesiol: 2
+Biomol Ther (Seoul): 2
+Health Expect: 2
+Body Soc: 2
+Mol Pain: 2
+Curr Stem Cell Rep: 2
+Body Image: 2
+Ann Clin Lab Sci: 2
+Open Access J Sports Med: 2
+Zh Vopr Neirokhir Im N N Burdenko: 2
+Planta: 2
+CNS Drugs: 2
+Curr Med Sci: 2
+Int J Rehabil Res: 2
+Int J Drug Policy: 2
+Transl Stroke Res: 2
+Bull Emerg Trauma: 2
+Bioinorg Chem Appl: 2
+Iran J Parasitol: 2
+JACC Basic Transl Sci: 2
+Postgrad Med: 2
+Eur Ann Allergy Clin Immunol: 2
+J Pharmacol Toxicol Methods: 2
+Psychol Res: 2
+J Stem Cells Regen Med: 2
+Semin Thorac Cardiovasc Surg: 2
+J Craniovertebr Junction Spine: 2
+J BUON: 2
+Drug Alcohol Rev: 2
+J Electrocardiol: 2
+J Appl Res Intellect Disabil: 2
+Pediatr Pulmonol: 2
+Ann Intensive Care: 2
+Neuropsychology: 2
+J Peripher Nerv Syst: 2
+Implant Dent: 2
+J Bioinform Comput Biol: 2
+Clin Pract (Lond): 2
+J Investig Allergol Clin Immunol: 2
+JBI Database System Rev Implement Rep: 2
+Clin Ophthalmol: 2
+Acta Stomatol Croat: 2
+PM R: 2
+J Electromyogr Kinesiol: 2
+Am J Surg Pathol: 2
+Int Urogynecol J: 2
+J Cardiothorac Surg: 2
+J Transcult Nurs: 2
+Int J Parasitol Drugs Drug Resist: 2
+Antibiotics (Basel): 2
+Biometrics: 2
+EXCLI J: 2
+Nutr Neurosci: 2
+Vet Radiol Ultrasound: 2
+Drug Alcohol Depend: 2
+Front Neuroinform: 2
+Curr Opin Psychiatry: 2
+Prog Transplant: 2
+Int J Stem Cells: 2
+Anticancer Drugs: 2
+Caries Res: 2
+J Arthroplasty: 2
+Am J Gastroenterol: 2
+J Autism Dev Disord: 2
+Obes Surg: 2
+Vet Dermatol: 2
+J Foot Ankle Res: 2
+J Vet Diagn Invest: 2
+Circ Cardiovasc Imaging: 2
+Infect Control Hosp Epidemiol: 2
+JAMA Intern Med: 2
+Burns Trauma: 2
+J Dig Dis: 2
+J Cataract Refract Surg: 2
+J Int Bioethique Ethique Sci: 2
+J Plant Physiol: 2
+J Phys Chem A: 2
+Zhonghua Xue Ye Xue Za Zhi: 2
+Int Orthop: 2
+Cholesterol: 2
+Hum Genome Var: 2
+Restor Neurol Neurosci: 2
+Cancer Invest: 2
+Neuromolecular Med: 2
+Iran J Psychiatry: 2
+J Vet Intern Med: 2
+Fungal Biol: 2
+J Pediatr Urol: 2
+Islets: 2
+Curr Opin Virol: 2
+Curr Eye Res: 2
+Spinal Cord Ser Cases: 2
+J Asthma: 2
+Plant J: 2
+Chromosome Res: 2
+Neurosurg Focus: 2
+Sex Med Rev: 2
+J Hum Nutr Diet: 2
+Health Policy Plan: 2
+J Community Genet: 2
+J Immigr Minor Health: 2
+J Gastroenterol: 2
+Occup Ther Health Care: 2
+J Hum Kinet: 2
+Arh Hig Rada Toksikol: 2
+Cancer Res Treat: 2
+Int J Nurs Knowl: 2
+Vet Res Forum: 2
+J Prosthodont: 2
+Curr Gerontol Geriatr Res: 2
+Int J Rheum Dis: 2
+Catheter Cardiovasc Interv: 2
+Am J Epidemiol: 2
+Med Leg J: 2
+Acta Neurol Belg: 2
+Prostate Cancer Prostatic Dis: 2
+J Environ Sci (China): 2
+J Turk Ger Gynecol Assoc: 2
+Neurocase: 2
+Fa Yi Xue Za Zhi: 2
+Neurophysiol Clin: 2
+Med Eng Phys: 2
+J Bone Metab: 2
+Scand J Urol: 2
+Phys Ther: 2
+Clin Res Cardiol: 2
+Zoolog Sci: 2
+BJOG: 2
+Microscopy (Oxf): 2
+Healthc Inform Res: 2
+Part Fibre Toxicol: 2
+Open Heart: 2
+Expert Rev Anti Infect Ther: 2
+J Transl Int Med: 2
+Child Care Health Dev: 2
+Mol Cytogenet: 2
+J Healthc Eng: 2
+Bull World Health Organ: 2
+Behav Sci (Basel): 2
+Med J Aust: 2
+Scand J Surg: 2
+Radiol Med: 2
+Mol Biol (Mosk): 2
+Asia Pac J Clin Oncol: 2
+J Stroke Cerebrovasc Dis: 2
+Pathogens: 2
+Early Hum Dev: 2
+Transl Androl Urol: 2
+Zhen Ci Yan Jiu: 2
+AIDS Rev: 2
+Acta Sci Pol Technol Aliment: 2
+JAMA Pediatr: 2
+Graefes Arch Clin Exp Ophthalmol: 2
+Pediatr Cardiol: 2
+Macromolecules: 2
+Curr Hematol Malig Rep: 2
+Curr Opin Syst Biol: 2
+Alzheimers Res Ther: 2
+JRSM Cardiovasc Dis: 2
+Heart: 2
+Integr Med Res: 2
+Future Cardiol: 2
+Big Data: 2
+Ethn Health: 2
+J Lasers Med Sci: 2
+J Integr Neurosci: 2
+Curr Issues Mol Biol: 2
+Photochem Photobiol: 2
+J Int Assoc Provid AIDS Care: 2
+Annu Rev Genomics Hum Genet: 2
+J Neonatal Perinatal Med: 2
+Interdiscip Perspect Infect Dis: 2
+Sex Reprod Healthc: 2
+Homeopathy: 2
+Hum Mov Sci: 2
+ACS Sens: 2
+Biomed Eng Online: 2
+Tetrahedron: 2
+Infect Ecol Epidemiol: 2
+J Health Psychol: 2
+J Dev Orig Health Dis: 2
+Behav Genet: 2
+Arch Environ Occup Health: 2
+Chem: 2
+Lancet HIV: 2
+Mol Brain: 2
+Pain Pract: 2
+Folia Med (Plovdiv): 2
+World J Pediatr: 2
+Immunogenetics: 2
+Psychiatriki: 2
+J Comp Physiol B: 2
+Hematol Oncol Clin North Am: 2
+Radiol Bras: 2
+J Relig Health: 2
+Ann Agric Environ Med: 2
+Vasc Health Risk Manag: 2
+J Clin Densitom: 2
+Arch Osteoporos: 2
+Biol Blood Marrow Transplant: 2
+Public Health Ethics: Cases Spanning the Globe: 2
+Ultramicroscopy: 2
+Pharmacoepidemiol Drug Saf: 2
+Folia Microbiol (Praha): 2
+BMC Med Imaging: 2
+J Clin Lab Anal: 2
+Semin Nephrol: 2
+Arch Environ Contam Toxicol: 2
+Asia Pac J Public Health: 2
+BMC Biochem: 2
+Psychiatr Danub: 2
+J Otolaryngol Head Neck Surg: 2
+Zhonghua Fu Chan Ke Za Zhi: 2
+Neurotoxicol Teratol: 2
+J Hum Lact: 2
+Neuroinformatics: 2
+Front Biosci (Schol Ed): 2
+Brain Dev: 2
+Hu Li Za Zhi: 2
+Life (Basel): 2
+J Clin Anesth: 2
+Am J Kidney Dis: 2
+Int J Neural Syst: 2
+Channels (Austin): 2
+J Dev Behav Pediatr: 2
+J Gambl Stud: 2
+Dentomaxillofac Radiol: 2
+Comp Med: 2
+Foot Ankle Int: 2
+Eur Arch Otorhinolaryngol: 2
+Ann Glob Health: 2
+Scand Cardiovasc J: 2
+Biochemistry (Mosc): 2
+Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi: 2
+Nucl Med Mol Imaging: 2
+J Fish Biol: 2
+Rev Invest Clin: 2
+BMC Dermatol: 2
+J Child Psychol Psychiatry: 2
+Biology (Basel): 2
+J Cardiovasc Surg (Torino): 2
+Case Rep Dermatol: 2
+Acta Med Iran: 2
+Contemp Clin Trials: 2
+Clin Lymphoma Myeloma Leuk: 2
+Can Bull Med Hist: 2
+Beilstein J Org Chem: 2
+J Infect Dev Ctries: 2
+Jpn J Nurs Sci: 2
+Oral Implantol (Rome): 2
+EJNMMI Res: 2
+J Orthop Sci: 2
+Semin Reprod Med: 2
+Yeast: 2
+Law Innov Technol: 2
+Prev Med: 2
+Int J Mycobacteriol: 2
+Vopr Pitan: 2
+Tissue Cell: 2
+Int J Lab Hematol: 2
+J Cell Commun Signal: 2
+Asian Pac J Trop Med: 2
+Respir Care: 2
+J Reprod Dev: 2
+Dis Aquat Organ: 2
+J Comput Chem: 2
+Immunol Allergy Clin North Am: 2
+Eur J Mass Spectrom (Chichester): 2
+Ambio: 2
+Crit Rev Microbiol: 2
+Mycotoxin Res: 2
+Drug Res (Stuttg): 2
+Can J Microbiol: 2
+Metab Syndr Relat Disord: 2
+Am J Infect Control: 2
+Jundishapur J Microbiol: 2
+Int J Yoga Therap: 2
+Extremophiles: 2
+Biomarkers: 2
+Int J Tuberc Lung Dis: 2
+Acta Biochim Pol: 2
+AJR Am J Roentgenol: 2
+Drug Saf Case Rep: 2
+Riv Psichiatr: 2
+Viral Immunol: 2
+J Plast Surg Hand Surg: 2
+Reprod Biomed Soc Online: 2
+Iran Red Crescent Med J: 2
+J Family Reprod Health: 2
+Ann Neurosci: 2
+Zdr Varst: 2
+Soins: 2
+Tohoku J Exp Med: 2
+Curr Protoc Mouse Biol: 2
+Annu Rev Cell Dev Biol: 2
+Dysphagia: 2
+Cancer Gene Ther: 2
+Brain Behav Evol: 2
+Nucleosides Nucleotides Nucleic Acids: 2
+SAHARA J: 2
+Hernia: 2
+Dtsch Arztebl Int: 2
+Clin Res Hepatol Gastroenterol: 2
+Dongwuxue Yanjiu: 2
+J Insect Sci: 2
+J Mater Chem B: 2
+Percept Mot Skills: 2
+Int Urol Nephrol: 2
+Curr Protoc Cytom: 2
+Ups J Med Sci: 2
+Rev Bras Enferm: 2
+Biol Proced Online: 2
+J Hazard Mater: 2
+Pediatr Emerg Care: 2
+Int Nurs Rev: 2
+J Wound Care: 2
+Minerva Pediatr: 2
+Fundam Clin Pharmacol: 2
+Horm Res Paediatr: 2
+Paediatr Perinat Epidemiol: 2
+Pan Afr Med J: 2
+Annu Rev Nutr: 2
+Obstet Gynecol Sci: 2
+Transfus Med: 2
+Int J Obes Suppl: 2
+Nutr Rev: 2
+Nano Today: 2
+Nurs Res: 2
+Biomol Detect Quantif: 2
+Cardiovasc Drugs Ther: 2
+Curr Drug Deliv: 2
+J Microbiol Biol Educ: 2
+Clin Kidney J: 2
+Curr Opin Allergy Clin Immunol: 2
+Biosystems: 2
+BMC Cell Biol: 2
+Bioengineered: 2
+Lung: 2
+Gesundheitswesen: 2
+Health Informatics J: 2
+World J Diabetes: 2
+J Cardiothorac Vasc Anesth: 2
+Bioscience: 2
+Bull Acad Natl Med: 2
+Nat Rev Cancer: 2
+IET Syst Biol: 2
+Rev Saude Publica: 2
+Genes Cancer: 2
+Heart Vessels: 2
+Ann Med Surg (Lond): 2
+Endocrinol Nutr: 2
+Acad Radiol: 2
+Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz: 2
+Dermatol Reports: 2
+Respiration: 2
+Vestn Ross Akad Med Nauk: 2
+Bioelectrochemistry: 2
+N Am J Med Sci: 2
+Eur J Surg Oncol: 2
+Zoological Lett: 2
+Clin Neuroradiol: 2
+J Environ Sci Health B: 2
+Endocrinol Metab Clin North Am: 2
+J Biomed Res: 2
+Expert Rev Respir Med: 2
+J R Soc Med: 2
+Theor Popul Biol: 2
+J Microbiol Immunol Infect: 2
+Cerebellum Ataxias: 2
+Clin Lab: 2
+Rev Port Cardiol: 2
+Technol Health Care: 2
+Braz J Psychiatry: 2
+Plant Physiol Biochem: 2
+Tumori: 2
+Eur Eat Disord Rev: 2
+Curr Protoc Toxicol: 2
+Int J Data Min Bioinform: 2
+BMJ Open Diabetes Res Care: 2
+Child Psychiatry Hum Dev: 2
+Semin Oncol: 2
+ACM BCB: 2
+Int J Public Health: 2
+Annu Rev Biomed Eng: 2
+Zhonghua Yu Fang Yi Xue Za Zhi: 2
+Mol Membr Biol: 2
+Womens Health (Lond): 2
+Mutat Res Genet Toxicol Environ Mutagen: 2
+J Cardiovasc Transl Res: 2
+Plant Biotechnol J: 2
+J Clin Exp Hepatol: 2
+Clin Cases Miner Bone Metab: 2
+Neurosci Res: 2
+Open Respir Med J: 2
+J Investig Dermatol Symp Proc: 2
+Acta Med Acad: 2
+Biosci Biotechnol Biochem: 2
+J Appl Biomater Funct Mater: 2
+Asian J Androl: 2
+Sci Technol Adv Mater: 2
+Adv Clin Chem: 2
+Endotext: 2
+J Prosthodont Res: 2
+J Pharmacol Sci: 2
+J Heart Lung Transplant: 2
+Tissue Antigens: 2
+Se Pu: 2
+J Int Soc Sports Nutr: 2
+Antivir Ther: 2
+J Anal Toxicol: 2
+World Allergy Organ J: 2
+Transpl Immunol: 2
+Commun Med: 2
+J Negat Results Biomed: 2
+J Synchrotron Radiat: 2
+Vopr Kurortol Fizioter Lech Fiz Kult: 2
+Pediatr Rheumatol Online J: 2
+Int J Vitam Nutr Res: 2
+Curr Opin HIV AIDS: 2
+Biores Open Access: 2
+Ann Fr Anesth Reanim: 2
+Travel Med Infect Dis: 2
+J Aging Stud: 2
+Int J Dermatol: 2
+Case Rep Genet: 2
+Eur J Dent Educ: 2
+Hypertens Pregnancy: 2
+Learn Mem: 2
+Case Rep Infect Dis: 2
+Zhonghua Liu Xing Bing Xue Za Zhi: 2
+Curr Trop Med Rep: 2
+Clin Transl Sci: 2
+Gerodontology: 2
+Clinicoecon Outcomes Res: 2
+Kidney Res Clin Pract: 2
+Pharmacopsychiatry: 2
+Pediatr Dermatol: 2
+Cardiovasc Hematol Disord Drug Targets: 2
+Ann Endocrinol (Paris): 2
+Med Law Rev: 2
+Natl Med J India: 2
+Int J Biomed Sci: 2
+J Neurointerv Surg: 2
+Int J Physiol Pathophysiol Pharmacol: 2
+Biomatter: 2
+Zhongguo Shi Yan Xue Ye Xue Za Zhi: 2
+Acta Derm Venereol: 2
+Appl Immunohistochem Mol Morphol: 2
+Ann Hum Biol: 2
+Vet Res: 2
+J Chem Biol: 2
+Mitochondrial DNA: 2
+Rev Med Suisse: 2
+European J Org Chem: 2
+Zhonghua Shao Shang Za Zhi: 2
+Med Arch: 2
+Sarcoidosis Vasc Diffuse Lung Dis: 2
+Adv Anat Embryol Cell Biol: 2
+J Drug Deliv: 2
+Nihon Rinsho: 2
+Acta Chim Slov: 2
+Rev Port Pneumol: 2
+Pathophysiology: 2
+J Mol Signal: 2
+Drug Deliv Transl Res: 2
+Int J Law Psychiatry: 2
+J Nat Med: 2
+Integr Comp Biol: 2
+Bull Hist Med: 2
+Int J Health Serv: 2
+Acta Reumatol Port: 2
+Curr Chem Genomics: 2
+Int J Psychiatry Med: 2
+Am J Vet Res: 2
+J Clin Gastroenterol: 2
+Comp Funct Genomics: 2
+Zhongguo Gu Shang: 2
+Prog Orthod: 2
+J Heart Valve Dis: 2
+Physiol Biochem Zool: 2
+Work: 2
+J Ren Nutr: 2
+Zhongguo Wei Zhong Bing Ji Jiu Yi Xue: 2
+Ann Burns Fire Disasters: 2
+J Tradit Chin Med: 2
+Acta Haematol: 2
+Bioeng Bugs: 2
+J Health Care Poor Underserved: 2
+Wien Med Wochenschr: 2
+J Pediatr Hematol Oncol: 2
+IEEE Trans Syst Man Cybern B Cybern: 2
+Med Teach: 2
+Zhong Yao Cai: 2
+Hiroshima J Med Sci: 2
+IDrugs: 2
+Math Comput Model: 2
+Zhongguo Fei Ai Za Zhi: 2
+Zhongguo Zhong Xi Yi Jie He Za Zhi: 2
+Health Care Women Int: 2
+Curr Opin Drug Discov Devel: 2
+J Adhes Dent: 2
+J Cancer Educ: 1
+Zhong Nan Da Xue Xue Bao Yi Xue Ban: 1
+J Radiol Prot: 1
+Int Breastfeed J: 1
+Psychol Health: 1
+J Toxicol Sci: 1
+Eur Addict Res: 1
+J Spinal Cord Med: 1
+Int J Parasitol Parasites Wildl: 1
+ESC Heart Fail: 1
+Can J Public Health: 1
+Hepat Med: 1
+Cardiovasc Interv Ther: 1
+Indian J Cancer: 1
+Diabetes Metab J: 1
+Sex Transm Dis: 1
+Environ Sci Eur: 1
+Indoor Air: 1
+Malays J Pathol: 1
+Kidney Dis (Basel): 1
+J Stud Alcohol Drugs: 1
+J Biomed Phys Eng: 1
+Iran J Pharm Res: 1
+Int J Vet Sci Med: 1
+Front Neuroendocrinol: 1
+J Gynecol Obstet Hum Reprod: 1
+Semergen: 1
+Diabetes Ther: 1
+J Med Entomol: 1
+Noncoding RNA Res: 1
+Psychiatry Investig: 1
+Turk J Anaesthesiol Reanim: 1
+Open Med Chem J: 1
+Pain Manag: 1
+Int J Hepatol: 1
+Caspian J Intern Med: 1
+Soc Psychiatry Psychiatr Epidemiol: 1
+Neuroradiology: 1
+Forensic Sci Res: 1
+Expert Opin Emerg Drugs: 1
+Zhonghua Yi Xue Za Zhi: 1
+Eur J Contracept Reprod Health Care: 1
+Int Heart J: 1
+Food Addit Contam Part B Surveill: 1
+Coron Artery Dis: 1
+J Nerv Ment Dis: 1
+Urolithiasis: 1
+Cent Eur J Public Health: 1
+Immunohorizons: 1
+Int J Bipolar Disord: 1
+Int Neurourol J: 1
+Hum Gene Ther Clin Dev: 1
+J Ultrasound: 1
+Paediatr Child Health: 1
+Implement Sci: 1
+J Cancer Prev: 1
+JMIR Mhealth Uhealth: 1
+J Exp Psychol Gen: 1
+IEEE Trans Comput Soc Syst: 1
+Ultraschall Med: 1
+Eat Disord: 1
+J Thorac Cardiovasc Surg: 1
+Adv Neurobiol: 1
+J Pers: 1
+J Surg Oncol: 1
+Korean J Pain: 1
+An Acad Bras Cienc: 1
+Ann Hum Genet: 1
+Somatosens Mot Res: 1
+Personal Neurosci: 1
+Am J Geriatr Psychiatry: 1
+RSF: 1
+J Diabetes Metab Disord: 1
+Integr Blood Press Control: 1
+J Contemp Dent Pract: 1
+Exp Oncol: 1
+Intervirology: 1
+Trop Med Infect Dis: 1
+Fam Pract: 1
+Nano Energy: 1
+Sci China Chem: 1
+Can J Diabetes: 1
+Acta Vet Hung: 1
+Annu Rev Pharmacol Toxicol: 1
+World J Clin Oncol: 1
+Alcohol Clin Exp Res: 1
+Virus Evol: 1
+Cardiovasc Ultrasound: 1
+Can J Neurol Sci: 1
+J Aging Health: 1
+Orthop Traumatol Surg Res: 1
+J Environ Radioact: 1
+NanoImpact: 1
+J Health Soc Behav: 1
+Food Technol Biotechnol: 1
+Neuroethics: 1
+Rev Aquac: 1
+Curr Probl Cancer: 1
+Ann Phys Rehabil Med: 1
+JCO Precis Oncol: 1
+Radiol Oncol: 1
+AAPS PharmSciTech: 1
+Int J Sports Physiol Perform: 1
+Hepatol Commun: 1
+Comput Inform Nurs: 1
+Eur J Radiol Open: 1
+Ocul Immunol Inflamm: 1
+Atten Defic Hyperact Disord: 1
+Probl Sotsialnoi Gig Zdravookhranenniiai Istor Med: 1
+Nat Sci Sleep: 1
+Neurologist: 1
+Breast Cancer (Auckl): 1
+J Gastrointest Oncol: 1
+High Throughput: 1
+Transl Cancer Res: 1
+Nanotheranostics: 1
+Patient Relat Outcome Meas: 1
+J Diabetes Investig: 1
+J Endovasc Ther: 1
+Diagnosis (Berl): 1
+Dis Esophagus: 1
+Aesthet Surg J: 1
+Indian J Ophthalmol: 1
+Ophthalmic Plast Reconstr Surg: 1
+Clin Psychopharmacol Neurosci: 1
+Gastrointest Endosc: 1
+Psychosomatics: 1
+J Cardiovasc Thorac Res: 1
+JMIR Serious Games: 1
+J Card Fail: 1
+Bull Math Biol: 1
+Open Access Maced J Med Sci: 1
+Cytoskeleton (Hoboken): 1
+BMC Hematol: 1
+J Ther Ultrasound: 1
+Ann Gen Psychiatry: 1
+Plant Sci: 1
+Nanomicro Lett: 1
+Intensive Crit Care Nurs: 1
+Multimed Man Cardiothorac Surg: 1
+Open Neurol J: 1
+Cancer Imaging: 1
+Ann Dermatol: 1
+J Obstet Gynaecol India: 1
+J Hosp Palliat Nurs: 1
+Curr Opin Infect Dis: 1
+Appl Health Econ Health Policy: 1
+Cancer Commun (Lond): 1
+Neuropsychobiology: 1
+Basic Clin Neurosci: 1
+Expert Rev Gastroenterol Hepatol: 1
+Acupunct Med: 1
+Undersea Hyperb Med: 1
+Cureus: 1
+Int J Health Sci (Qassim): 1
+IMA Fungus: 1
+J Cardiovasc Electrophysiol: 1
+J Infect Prev: 1
+J Chem Technol Biotechnol: 1
+Clin Genitourin Cancer: 1
+BMC Surg: 1
+J Tradit Complement Med: 1
+Prog Polym Sci: 1
+Ind Health: 1
+J Cutan Pathol: 1
+Nat Biomed Eng: 1
+Genom Comput Biol: 1
+Nervenarzt: 1
+Eye Contact Lens: 1
+Infect Drug Resist: 1
+Pregnancy Hypertens: 1
+JBRA Assist Reprod: 1
+Comput Cardiol (2010): 1
+Bone Joint Res: 1
+Gastroenterol Hepatol Bed Bench: 1
+Indian J Crit Care Med: 1
+Cold Spring Harb Mol Case Stud: 1
+Trends Cogn Sci: 1
+Vet Anaesth Analg: 1
+Biochim Biophys Acta Bioenerg: 1
+Ear Hear: 1
+Eur Geriatr Med: 1
+J Stroke: 1
+Pediatr Int: 1
+Circ Cardiovasc Interv: 1
+BMJ Paediatr Open: 1
+Palgrave Commun: 1
+Int J Behav Med: 1
+Radiat Environ Biophys: 1
+Arch Clin Neuropsychol: 1
+Ann Nutr Metab: 1
+J Anal Methods Chem: 1
+Plant Cell Rep: 1
+Ultrasonography: 1
+Child Neuropsychol: 1
+Endocr J: 1
+Clin Chest Med: 1
+Life Sci Soc Policy: 1
+Toxicol Pathol: 1
+Suicide Life Threat Behav: 1
+Diagnostics (Basel): 1
+Cleft Palate Craniofac J: 1
+Glob Heart: 1
+Bone Res: 1
+Obstet Gynecol Surv: 1
+Immunotargets Ther: 1
+Pharm Dev Technol: 1
+Dement Neuropsychol: 1
+Pain Manag Nurs: 1
+Exerc Sport Sci Rev: 1
+Bull Cancer: 1
+Microsc Res Tech: 1
+Gates Open Res: 1
+Anesth Essays Res: 1
+Ther Adv Neurol Disord: 1
+Pharm Pract (Granada): 1
+JAMA Cardiol: 1
+Clin Child Fam Psychol Rev: 1
+Clin Sarcoma Res: 1
+Annu Rev Biochem: 1
+Contact Dermatitis: 1
+Int J Immunogenet: 1
+Core Evid: 1
+Acta Gastroenterol Belg: 1
+J Diet Suppl: 1
+NPJ Aging Mech Dis: 1
+MycoKeys: 1
+Porcine Health Manag: 1
+J Exp Neurosci: 1
+J R Army Med Corps: 1
+Minim Invasive Ther Allied Technol: 1
+Pathog Immun: 1
+Rom J Intern Med: 1
+Hum Antibodies: 1
+Health Promot Int: 1
+Zool Res: 1
+J Food Prot: 1
+Gastroenterology Res: 1
+Cancer Microenviron: 1
+Ann Cardiothorac Surg: 1
+Int J Prison Health: 1
+Int J Psychophysiol: 1
+Kaohsiung J Med Sci: 1
+Indian J Otolaryngol Head Neck Surg: 1
+J Speech Lang Hear Res: 1
+J Skin Cancer: 1
+Physiother Can: 1
+Arthrosc Tech: 1
+Int J Health Plann Manage: 1
+Fam Relat: 1
+Gac Med Mex: 1
+Diabet Foot Ankle: 1
+Naturwissenschaften: 1
+Vet Clin North Am Equine Pract: 1
+Omega (Westport): 1
+Medicines (Basel): 1
+Proc IEEE Int Symp Bioinformatics Bioeng: 1
+Case Rep Pediatr: 1
+J Basic Clin Physiol Pharmacol: 1
+Muscles Ligaments Tendons J: 1
+Ann Parasitol: 1
+Int J Otolaryngol: 1
+Clin Cosmet Investig Dermatol: 1
+Environ Exp Bot: 1
+Cyberpsychol Behav Soc Netw: 1
+J Med Life: 1
+Community Ment Health J: 1
+World J Surg: 1
+Arq Bras Cir Dig: 1
+Lancet Infect Dis: 1
+Cornea: 1
+Nutr Diet: 1
+Psychother Psychosom: 1
+NPJ Regen Med: 1
+JAAD Case Rep: 1
+Breast Cancer: 1
+J Oral Sci: 1
+Leuk Res Rep: 1
+Middle East J Dig Dis: 1
+J Atr Fibrillation: 1
+Biophys Rep: 1
+Med Mycol Case Rep: 1
+J Res Health Sci: 1
+Asia Pac J Clin Nutr: 1
+Twin Res Hum Genet: 1
+Neuroepidemiology: 1
+BMC Sports Sci Med Rehabil: 1
+J Neurosci Rural Pract: 1
+J Pharm Pharm Sci: 1
+Creat Nurs: 1
+J Appl Anim Welf Sci: 1
+Case Rep Nephrol Dial: 1
+Curr Opin Crit Care: 1
+Ter Arkh: 1
+New Phytol: 1
+Biomech Model Mechanobiol: 1
+Rev Argent Microbiol: 1
+Lancet Haematol: 1
+J Appl Clin Med Phys: 1
+Clin Respir J: 1
+Nurse Educ Pract: 1
+J Korean Assoc Oral Maxillofac Surg: 1
+Int J Gynecol Pathol: 1
+Palliat Med: 1
+Minerva Gastroenterol Dietol: 1
+Top Curr Chem (Cham): 1
+Heart Int: 1
+J Dermatol Sci: 1
+Clin Nutr ESPEN: 1
+Mol Biol Res Commun: 1
+Chronic Dis Transl Med: 1
+Synth Syst Biotechnol: 1
+J Mater Chem A Mater: 1
+J Virus Erad: 1
+Nephron: 1
+Biomater Res: 1
+Clin Neuropharmacol: 1
+NIHR Journals Library: 1
+J Med Device: 1
+Clin Colorectal Cancer: 1
+Rev Clin Esp: 1
+Res Social Adm Pharm: 1
+BMC Womens Health: 1
+Women Birth: 1
+Can J Ophthalmol: 1
+Am J Ther: 1
+Acta Medica (Hradec Kralove): 1
+Biopharm Drug Dispos: 1
+Turk J Emerg Med: 1
+Sex Med: 1
+Physiol Meas: 1
+Radiography (Lond): 1
+Pharm Nanotechnol: 1
+World J Urol: 1
+J Circ Biomark: 1
+Musculoskelet Sci Pract: 1
+Acta Crystallogr E Crystallogr Commun: 1
+J Med Imaging (Bellingham): 1
+Adm Policy Ment Health: 1
+Alzheimer Dis Assoc Disord: 1
+AIDS Patient Care STDS: 1
+Anaesthesia: 1
+Gynecol Surg: 1
+J Acupunct Meridian Stud: 1
+Cogn Behav Ther: 1
+Ther Apher Dial: 1
+Int Forum Allergy Rhinol: 1
+Hepatobiliary Surg Nutr: 1
+Heart Surg Forum: 1
+Adv Dis Control Prev: 1
+Nat Rev Cardiol: 1
+Ocul Surf: 1
+Geriatr Nurs: 1
+Dis Mon: 1
+Obes Res Clin Pract: 1
+Magnes Res: 1
+Comput Methods Biomech Biomed Eng Imaging Vis: 1
+J Psychoactive Drugs: 1
+Transplant Rev (Orlando): 1
+Ann Diagn Pathol: 1
+J Cardiovasc Magn Reson: 1
+Mol Plant Pathol: 1
+Int J Surg Oncol: 1
+Surg Pathol Clin: 1
+Bull Environ Contam Toxicol: 1
+Int J Implant Dent: 1
+J Neuroimmune Pharmacol: 1
+Prog Chem Org Nat Prod: 1
+Pragmat Obs Res: 1
+Phys Med: 1
+Behav Neurol: 1
+NPJ Prim Care Respir Med: 1
+Evid Based Nurs: 1
+Surv Ophthalmol: 1
+Langenbecks Arch Surg: 1
+Zoology (Jena): 1
+Eur J Ophthalmol: 1
+GMS Interdiscip Plast Reconstr Surg DGPW: 1
+J Med Vasc: 1
+Am J Perinatol: 1
+Endeavour: 1
+Tomography: 1
+NPJ Parkinsons Dis: 1
+Bioresour Bioprocess: 1
+Neuroscientist: 1
+Nucleic Acid Ther: 1
+Adolesc Health Med Ther: 1
+Int J Psychiatry Clin Pract: 1
+Hautarzt: 1
+Can J Psychiatry: 1
+J Parasit Dis: 1
+Int J Occup Saf Ergon: 1
+Ecology: 1
+J Integr Oncol: 1
+Eur J Drug Metab Pharmacokinet: 1
+Am J Addict: 1
+Ultrasound: 1
+Arch Dis Child: 1
+Ann Plast Surg: 1
+Cell Biol Toxicol: 1
+Z Evid Fortbild Qual Gesundhwes: 1
+Messenger (Los Angel): 1
+Adv Microb Physiol: 1
+Med Dosim: 1
+Am J Surg: 1
+Scand J Occup Ther: 1
+Foodborne Pathog Dis: 1
+Cardiovasc Eng Technol: 1
+Biol Psychiatry Cogn Neurosci Neuroimaging: 1
+J Renal Inj Prev: 1
+HeartRhythm Case Rep: 1
+Zhongguo Yi Xue Ke Xue Yuan Xue Bao: 1
+J Rehabil Med: 1
+J Biol Rhythms: 1
+Green Chem: 1
+CMAJ: 1
+J Toxicol Pathol: 1
+Rev Physiol Biochem Pharmacol: 1
+Evol Anthropol: 1
+Tremor Other Hyperkinet Mov (N Y): 1
+Int J Food Sci: 1
+Endocrinol Diabetes Nutr: 1
+Photoacoustics: 1
+JACC Cardiovasc Interv: 1
+Jpn Dent Sci Rev: 1
+Am J Alzheimers Dis Other Demen: 1
+Scand J Trauma Resusc Emerg Med: 1
+Thorac Cardiovasc Surg: 1
+Neuroimaging Clin N Am: 1
+Arch Womens Ment Health: 1
+J Investig Clin Dent: 1
+Eur J Microbiol Immunol (Bp): 1
+Clin Psychol Rev: 1
+Vox Sang: 1
+JMM Case Rep: 1
+Crit Rev Anal Chem: 1
+Zoonoses Public Health: 1
+J Mycol Med: 1
+Urologia: 1
+Indian J Med Microbiol: 1
+Nord J Psychiatry: 1
+Emerg (Tehran): 1
+J Integr Med: 1
+Lymphat Res Biol: 1
+Eur J Gen Pract: 1
+J Exp Psychol Hum Percept Perform: 1
+J Pharm Policy Pract: 1
+Curr Opin Endocrinol Diabetes Obes: 1
+Discov Med: 1
+J Genet Disord Genet Rep: 1
+Neurobiol Stress: 1
+Epidemiol Serv Saude: 1
+Fam Med: 1
+Genome Integr: 1
+Conscious Cogn: 1
+Adv Immunol: 1
+Rep Prog Phys: 1
+J Pediatric Infect Dis Soc: 1
+Patient: 1
+Anal Cell Pathol (Amst): 1
+Inflamm Cell Signal: 1
+J Biol Phys: 1
+J Pediatr Surg: 1
+Geriatr Gerontol Int: 1
+Genome: 1
+Asian J Sports Med: 1
+Adv Physiol Educ: 1
+Ann Bot: 1
+Wien Klin Wochenschr: 1
+Curr Cardiol Rev: 1
+Curr Top Microbiol Immunol: 1
+Int J Pharm Investig: 1
+J AOAC Int: 1
+J Blood Med: 1
+J Orthop Surg Res: 1
+J Epilepsy Res: 1
+Emerg Med Australas: 1
+J Med Libr Assoc: 1
+Translation (Austin): 1
+J Clin Neurol: 1
+Clin Neuropsychol: 1
+Annu Rev Public Health: 1
+Syst Biol: 1
+J Med Ethics Hist Med: 1
+Ther Adv Urol: 1
+EPJ Data Sci: 1
+JSM Neurosurg Spine: 1
+J Patient Rep Outcomes: 1
+Biomark Res: 1
+Int J Womens Health: 1
+Atheroscler Suppl: 1
+J Laparoendosc Adv Surg Tech A: 1
+Braz Dent J: 1
+J Undergrad Neurosci Educ: 1
+Clin Microbiol Rev: 1
+Asthma Res Pract: 1
+Arch Mold: 1
+J Clin Cell Immunol: 1
+Appl Spectrosc: 1
+Br Med Bull: 1
+Nurs Hist Rev: 1
+Dement Geriatr Cogn Disord: 1
+Dermatopathology (Basel): 1
+BMJ Open Sport Exerc Med: 1
+Curr Oral Health Rep: 1
+Clin Teach: 1
+Pol Arch Med Wewn: 1
+Games Health J: 1
+J Clin Apher: 1
+Investigating Interdisciplinary Collaboration: Theory and Practice across Disciplines: 1
+Iperception: 1
+J Geriatr Phys Ther: 1
+Int J Tryptophan Res: 1
+Environ Geochem Health: 1
+Int J Numer Method Biomed Eng: 1
+Int J Hematol Oncol: 1
+Man Ther: 1
+J Cardiopulm Rehabil Prev: 1
+BioData Min: 1
+Nurse Educ: 1
+J Assoc Physicians India: 1
+Holist Nurs Pract: 1
+J Immunotoxicol: 1
+J Wound Ostomy Continence Nurs: 1
+J Proteomics Bioinform: 1
+Pestic Biochem Physiol: 1
+Int J Toxicol: 1
+Anal Chem Insights: 1
+Obes Sci Pract: 1
+Eur J Oncol Nurs: 1
+J Pharmacopuncture: 1
+Ultrasound Int Open: 1
+Endocr Pathol: 1
+EJIFCC: 1
+Int J Biometeorol: 1
+N Z Vet J: 1
+Low Urin Tract Symptoms: 1
+Mitochondrial DNA B Resour: 1
+AIDS Res Ther: 1
+Mil Med: 1
+Neurogenesis (Austin): 1
+Regeneration (Oxf): 1
+Congenit Heart Dis: 1
+Autoimmunity: 1
+Sports Med: 1
+Prog Cardiovasc Dis: 1
+J Exp Bot: 1
+Cent Eur J Immunol: 1
+Hum Nat: 1
+Anim Sci J: 1
+Turk J Med Sci: 1
+Eur Thyroid J: 1
+Srp Arh Celok Lek: 1
+J Crit Care: 1
+Crit Rev Eukaryot Gene Expr: 1
+Proc Jpn Acad Ser B Phys Biol Sci: 1
+Dev Psychobiol: 1
+Neurosignals: 1
+Am J Robot Surg: 1
+Can Respir J: 1
+AMA J Ethics: 1
+Cogn Neurosci: 1
+Qatar Med J: 1
+Emerg Nurse: 1
+Braz J Med Biol Res: 1
+Comp Biochem Physiol B Biochem Mol Biol: 1
+Acta Crystallogr C Struct Chem: 1
+Neuropsychol Dev Cogn B Aging Neuropsychol Cogn: 1
+J Lifestyle Med: 1
+Biodemography Soc Biol: 1
+IBRO Rep: 1
+J Clin Pharm Ther: 1
+QJM: 1
+Semin Diagn Pathol: 1
+G Ital Cardiol (Rome): 1
+J Appl Crystallogr: 1
+Curr Top Behav Neurosci: 1
+Rev Bras Reumatol Engl Ed: 1
+Appl In Vitro Toxicol: 1
+Insights Imaging: 1
+Dement Geriatr Cogn Dis Extra: 1
+Europace: 1
+Cell Mol Biol (Noisy-le-grand): 1
+Ind Eng Chem Res: 1
+Horm Cancer: 1
+Trop Anim Health Prod: 1
+Glob Health Promot: 1
+Drug Resist Updat: 1
+Appl Ergon: 1
+J Occup Rehabil: 1
+Ther Adv Psychopharmacol: 1
+J Scleroderma Relat Disord: 1
+J Health Polit Policy Law: 1
+MAGMA: 1
+J Orthop Surg (Hong Kong): 1
+Gerontologist: 1
+Sports Biomech: 1
+J Infect Public Health: 1
+Pathobiology: 1
+Worm: 1
+Cell Tissue Bank: 1
+ChemSusChem: 1
+J Geriatr Oncol: 1
+J Cardiovasc Dev Dis: 1
+Trop Life Sci Res: 1
+Adv Parasitol: 1
+Head Face Med: 1
+Physiotherapy: 1
+Eur J Health Econ: 1
+Bioelectromagnetics: 1
+Vasc Endovascular Surg: 1
+Adv Pharmacol Sci: 1
+Anal Lett: 1
+Cell Biochem Biophys: 1
+J Pathol Inform: 1
+Health Mark Q: 1
+J Atheroscler Thromb: 1
+Ann Stomatol (Roma): 1
+Glob Adv Health Med: 1
+Actas Dermosifiliogr: 1
+Arch Endocrinol Metab: 1
+J Chem Neuroanat: 1
+J Clin Exp Neuropsychol: 1
+Eur Urol Focus: 1
+Trans R Soc Trop Med Hyg: 1
+Epidemiol Health: 1
+Mol Cell Pediatr: 1
+Anal Quant Cytopathol Histpathol: 1
+Ontogenez: 1
+Clin Exp Nephrol: 1
+Bioinspir Biomim: 1
+Curr Protoc Immunol: 1
+Schmerz: 1
+Int J Biochem Mol Biol: 1
+Zhonghua Wei Chang Wai Ke Za Zhi: 1
+Transl Biomed: 1
+Radiat Oncol J: 1
+Microrna: 1
+Radiat Prot Dosimetry: 1
+South Med J: 1
+Pharmacology: 1
+J Steroids Horm Sci: 1
+Rehabilitation (Stuttg): 1
+Diving Hyperb Med: 1
+BBA Clin: 1
+Artif Organs: 1
+Indian J Psychol Med: 1
+Neurol Ther: 1
+Arch Orthop Trauma Surg: 1
+Int J Risk Saf Med: 1
+Turk J Urol: 1
+BMC Obes: 1
+Pediatr Surg Int: 1
+J Educ Psychol: 1
+Adv Appl Bioinform Chem: 1
+Cancer Biother Radiopharm: 1
+Entropy (Basel): 1
+Eur J Protistol: 1
+J Mater Sci: 1
+J Mol Evol: 1
+Curr Opin Organ Transplant: 1
+Orthop Nurs: 1
+Hemoglobin: 1
+BMJ Open Gastroenterol: 1
+Medwave: 1
+J Neuropsychol: 1
+World J Gastrointest Pharmacol Ther: 1
+Dermatitis: 1
+Diabetes Metab: 1
+Proc IEEE Inst Electr Electron Eng: 1
+Sci Technol Human Values: 1
+Echocardiography: 1
+Hum Exp Toxicol: 1
+Microsurgery: 1
+Int J Geriatr Psychiatry: 1
+Blood Purif: 1
+Psychiatr Pol: 1
+J Laryngol Otol: 1
+Ther Adv Vaccines: 1
+Diagn Cytopathol: 1
+Respir Physiol Neurobiol: 1
+J Vet Emerg Crit Care (San Antonio): 1
+Drug Dev Res: 1
+Curr Protoc Hum Genet: 1
+Integr Cancer Ther: 1
+J Biosoc Sci: 1
+Ochsner J: 1
+Plant Cell: 1
+Chin Clin Oncol: 1
+J Neural Eng: 1
+Politics Life Sci: 1
+Subst Abuse Treat Prev Policy: 1
+J Clin Diagn Res: 1
+Vet Rec Open: 1
+Confl Health: 1
+J Empir Res Hum Res Ethics: 1
+Clin Auton Res: 1
+Crit Rev Immunol: 1
+Plant Mol Biol: 1
+J Evol Biol: 1
+Phytochem Anal: 1
+J Am Soc Hypertens: 1
+Kidney Int Suppl (2011): 1
+Shanghai Arch Psychiatry: 1
+Case Rep Surg: 1
+J Intellect Disabil Res: 1
+Radiat Res: 1
+J Microsc: 1
+J Neurol Surg Rep: 1
+Am J Phys Anthropol: 1
+C R Biol: 1
+Ann Sci: 1
+J Neurol Surg B Skull Base: 1
+Eur J Anaesthesiol: 1
+J Christ Nurs: 1
+Lancet Glob Health: 1
+Case Rep Nephrol: 1
+IUCrJ: 1
+J Eukaryot Microbiol: 1
+J Pediatr Adolesc Gynecol: 1
+Arab J Gastroenterol: 1
+Rev Infirm: 1
+Intravital: 1
+Eur J Med Res: 1
+Minerva: 1
+Zhonghua Wai Ke Za Zhi: 1
+Chin J Nat Med: 1
+Brain Connect: 1
+Best Pract Res Clin Gastroenterol: 1
+Evol Bioinform Online: 1
+Hypoxia (Auckl): 1
+J Neurodev Disord: 1
+Iran J Biotechnol: 1
+Biotechnol Biotechnol Equip: 1
+J Pathol Transl Med: 1
+Clin Biomech (Bristol, Avon): 1
+Mil Med Res: 1
+Clin Anat: 1
+J Dent Res Dent Clin Dent Prospects: 1
+West Indian Med J: 1
+Fam Relatsh Soc: 1
+Mem Inst Oswaldo Cruz: 1
+J Shoulder Elbow Surg: 1
+Syst Appl Microbiol: 1
+Microbiol Mol Biol Rev: 1
+Int J Comput Vis: 1
+Ann Transplant: 1
+Redox Rep: 1
+Malays J Med Sci: 1
+Gac Sanit: 1
+Stem Cells Cloning: 1
+Anaesth Crit Care Pain Med: 1
+Arch Ital Biol: 1
+Acta Otolaryngol: 1
+J Trop Pediatr: 1
+Biotechnol Genet Eng Rev: 1
+Intern Med: 1
+J Patient Saf: 1
+Med Hypothesis Discov Innov Ophthalmol: 1
+Drugs Real World Outcomes: 1
+AMIA Jt Summits Transl Sci Proc: 1
+Chin J Cancer Res: 1
+Usp Fiziol Nauk: 1
+Cardiovasc Toxicol: 1
+Curr Anthropol: 1
+Laser Photon Rev: 1
+Curr Behav Neurosci Rep: 1
+Australas Med J: 1
+Chem Mater: 1
+Ann Gastroenterol: 1
+Meta Gene: 1
+Intractable Rare Dis Res: 1
+Salud Publica Mex: 1
+JMIR Med Inform: 1
+Open Biochem J: 1
+Rev Gastroenterol Peru: 1
+Pigment Cell Melanoma Res: 1
+Asian-Australas J Anim Sci: 1
+Int J Obstet Anesth: 1
+Conf Comput Vis Pattern Recognit Workshops: 1
+Bol Med Hosp Infant Mex: 1
+Brain Lang: 1
+Case Rep Hematol: 1
+Best Pract Res Clin Rheumatol: 1
+AIMS Public Health: 1
+Rev Int Stud: 1
+Appl Transl Genom: 1
+Math Med Biol: 1
+Clin Rev Allergy Immunol: 1
+Annu Rev Anim Biosci: 1
+IEEE Photonics J: 1
+Microbes Environ: 1
+Orv Hetil: 1
+Comput Sci Discov: 1
+Value Health: 1
+New Bioeth: 1
+Oncol Res Treat: 1
+Adv Bioinformatics: 1
+Turk Patoloji Derg: 1
+Adv Food Nutr Res: 1
+Vasc Cell: 1
+Acta Neuropsychiatr: 1
+Endocr Dev: 1
+Birth Defects Res C Embryo Today: 1
+Hum Resour Health: 1
+Lipids: 1
+Nihon Naika Gakkai Zasshi: 1
+Dermatol Res Pract: 1
+Anat Histol Embryol: 1
+Nat Phys: 1
+Orthop J Sports Med: 1
+Cephalalgia: 1
+Inflamm Allergy Drug Targets: 1
+J Prosthet Dent: 1
+BMC Biophys: 1
+Res Dev Disabil: 1
+CA Cancer J Clin: 1
+Colomb Med (Cali): 1
+J Nurs Care Qual: 1
+J Pediatr Nurs: 1
+Nat Prod Bioprospect: 1
+J Cent Nerv Syst Dis: 1
+Adv Gerontol: 1
+Technology (Singap World Sci): 1
+Transplant Res: 1
+Case Rep Emerg Med: 1
+Cancer Genomics Proteomics: 1
+Open Ophthalmol J: 1
+Curr Opin Colloid Interface Sci: 1
+Int J Exp Pathol: 1
+Iran J Nurs Midwifery Res: 1
+Klin Onkol: 1
+J Am Osteopath Assoc: 1
+Rev Endocr Metab Disord: 1
+Best Pract Res Clin Haematol: 1
+Acta Orthop Traumatol Turc: 1
+Annu Rev Biophys: 1
+Rev Med Virol: 1
+J Clin Neurophysiol: 1
+Vasc Med: 1
+Logoped Phoniatr Vocol: 1
+Bosn J Basic Med Sci: 1
+Linacre Q: 1
+J Genet: 1
+Dig Surg: 1
+Psychosom Med: 1
+J Hand Surg Am: 1
+Biotech Histochem: 1
+Ann Appl Stat: 1
+J Rheumatol Suppl: 1
+Front Neurol Neurosci: 1
+Acta Med Indones: 1
+Heart Fail Rev: 1
+Front Horm Res: 1
+Am J Primatol: 1
+Dev World Bioeth: 1
+Aust Fam Physician: 1
+Drug Saf: 1
+Curr Osteoporos Rep: 1
+Braz J Microbiol: 1
+J Vet Sci: 1
+J Cytol: 1
+Curr Probl Dermatol: 1
+Vasa: 1
+Zhonghua Wei Zhong Bing Ji Jiu Yi Xue: 1
+Biologics: 1
+Ther Adv Chronic Dis: 1
+J Cardiovasc Comput Tomogr: 1
+Anaesth Intensive Care: 1
+Vet Med Int: 1
+Semin Ophthalmol: 1
+Inverse Probl Sci Eng: 1
+ISRN Obes: 1
+Sleep Disord: 1
+Turk Neurosurg: 1
+Med Ref Serv Q: 1
+Leuk Res Treatment: 1
+Matern Child Nutr: 1
+Mater Sociomed: 1
+Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi: 1
+Curr Allergy Asthma Rep: 1
+Drugs R D: 1
+J Formos Med Assoc: 1
+Front Neurorobot: 1
+J Gastrointest Surg: 1
+J Cardiovasc Dis Res: 1
+Clin Cardiol: 1
+Dev Neurorehabil: 1
+J Trauma Dissociation: 1
+Int J Methods Psychiatr Res: 1
+NPG Asia Mater: 1
+Nano Converg: 1
+Int Sch Res Notices: 1
+IDCases: 1
+Borderline Personal Disord Emot Dysregul: 1
+Eur Phys J C Part Fields: 1
+Acad Pediatr: 1
+Prog Urol: 1
+Int J Nephrol Renovasc Dis: 1
+Pediatr Neurol: 1
+J Med Imaging Radiat Oncol: 1
+Hepatogastroenterology: 1
+Med Wieku Rozwoj: 1
+Arch Microbiol: 1
+Proc Int Conf Mach Learn Appl: 1
+J Phycol: 1
+J Transplant: 1
+Lung Cancer (Auckl): 1
+Emerg Themes Epidemiol: 1
+Vertex: 1
+N Y State Dent J: 1
+Curr Opin Pediatr: 1
+Braz J Biol: 1
+Afr J Phys Health Educ Recreat Dance: 1
+Acta Pharm: 1
+Yonsei Med J: 1
+J Dermatol: 1
+Panminerva Med: 1
+Vascular: 1
+Dtsch Med Wochenschr: 1
+Postepy Hig Med Dosw (Online): 1
+Rofo: 1
+J Low Genit Tract Dis: 1
+Clin Gastroenterol Hepatol: 1
+Silence: 1
+Ophthalmology: 1
+Gen Physiol Biophys: 1
+Source Code Biol Med: 1
+Pharmacogn Rev: 1
+Rev Salud Publica (Bogota): 1
+Int J High Perform Comput Appl: 1
+Auto Immun Highlights: 1
+Vet Ital: 1
+Trans Am Clin Climatol Assoc: 1
+Neurol India: 1
+Infect Dis Poverty: 1
+J Evid Based Med: 1
+Yale J Health Policy Law Ethics: 1
+Can J Vet Res: 1
+Am J Med Sci: 1
+IEEE China Summit Int Conf Signal Inf Process: 1
+Zentralbl Chir: 1
+Nephron Clin Pract: 1
+Ann Saudi Med: 1
+J Pak Med Assoc: 1
+Acta Biol Hung: 1
+CBE Life Sci Educ: 1
+J Maxillofac Oral Surg: 1
+Folia Parasitol (Praha): 1
+Cardiol Res: 1
+Clin J Gastroenterol: 1
+Surg Infect (Larchmt): 1
+Plant Foods Hum Nutr: 1
+Drug Metab Pharmacokinet: 1
+Value Health Reg Issues: 1
+Clin Exp Dermatol: 1
+Met Ions Life Sci: 1
+Cold Spring Harb Protoc: 1
+Clin Invest Med: 1
+Front Neuroenergetics: 1
+J Holist Nurs: 1
+Vet Clin North Am Small Anim Pract: 1
+Nephron Physiol: 1
+Int J Mol Imaging: 1
+Avian Dis: 1
+Clin Hemorheol Microcirc: 1
+Arthritis Rheum: 1
+Health Care Manag (Frederick): 1
+Hematol Rep: 1
+Toxicol Ind Health: 1
+Niger J Med: 1
+Zhonghua Yan Ke Za Zhi: 1
+Cas Lek Cesk: 1
+Nihon Rinsho Meneki Gakkai Kaishi: 1
+Microb Ecol: 1
+Microarrays (Basel): 1
+Curr Metabolomics: 1
+J Frailty Aging: 1
+Int J Med Chem: 1
+World J Emerg Med: 1
+J Nutr Sci: 1
+Enzymes: 1
+Food Sci Nutr: 1
+Proc IEEE Int Conf Comput Vis: 1
+Cell Mol Biol Lett: 1
+Neuropsychopharmacol Hung: 1
+Folia Histochem Cytobiol: 1
+Quant Imaging Med Surg: 1
+J Head Trauma Rehabil: 1
+Adicciones: 1
+BMC Ecol: 1
+Oper Dent: 1
+Zhonghua Gan Zang Bing Za Zhi: 1
+Ment Health Fam Med: 1
+Stat Appl Genet Mol Biol: 1
+Addiction: 1
+Dan Med J: 1
+Phys Life Rev: 1
+J Neurosurg Spine: 1
+J Appl Oral Sci: 1
+J Vis: 1
+Recent Pat Biotechnol: 1
+Tsitologiia: 1
+Zhongguo Ji Sheng Chong Xue Yu Ji Sheng Chong Bing Za Zhi: 1
+Cardiol Res Pract: 1
+ISRN Dent: 1
+J Trauma Acute Care Surg: 1
+Psychodyn Psychiatry: 1
+Cytopathology: 1
+Seikagaku: 1
+Dev Neurosci: 1
+Eur Radiol: 1
+Int J Audiol: 1
+Rural Remote Health: 1
+Biostatistics: 1
+J Anaesthesiol Clin Pharmacol: 1
+Sichuan Da Xue Xue Bao Yi Xue Ban: 1
+J Anim Physiol Anim Nutr (Berl): 1
+Proc Am Thorac Soc: 1
+Arch Dermatol: 1
+Am J Rhinol Allergy: 1
+J Invasive Cardiol: 1
+Herz: 1
+Transcription: 1
+Rev Bras Ortop: 1
+J Innov Opt Health Sci: 1
+Adv Hematol: 1
+Chem Phys Lipids: 1
+Int J Plant Genomics: 1
+Protoplasma: 1
+Rev Enferm: 1
+Adv Mar Biol: 1
+Int J Breast Cancer: 1
+Arch Ophthalmol: 1
+BMJ Support Palliat Care: 1
+Discrete Continuous Dyn Syst Ser B: 1
+Expert Rev Anticancer Ther: 1
+Biosocieties: 1
+J Breath Res: 1
+Trends Ecol Evol: 1
+Curr Pain Headache Rep: 1
+J Glob Infect Dis: 1
+J Comp Physiol A Neuroethol Sens Neural Behav Physiol: 1
+Biochem Res Int: 1
+Rev Neurosci: 1
+Arch Neurol: 1
+Int J Alzheimers Dis: 1
+Arthroscopy: 1
+Health Place: 1
+Evolution (N Y): 1
+J Carbohydr Chem: 1
+Curr Med Imaging Rev: 1
+Br J Hist Sci: 1
+Solid State Nucl Magn Reson: 1
+Tetrahedron Lett: 1
+J Spinal Disord Tech: 1
+World J Virol: 1
+ASAIO J: 1
+Nat Prod Commun: 1
+Infect Dis Rep: 1
+J Drug Assess: 1
+Public Health Rev: 1
+J Am Stat Assoc: 1
+J IMA: 1
+Poiesis Prax: 1
+J Intell Inf Syst: 1
+Pulm Circ: 1
+Stress: 1
+Curr Mol Pharmacol: 1
+Postgrad Med J: 1
+Nano Rev: 1
+J Inflamm Res: 1
+J Lab Autom: 1
+J Endourol: 1
+Mol Biol Int: 1
+J Exp Zool A Ecol Genet Physiol: 1
+J Hand Surg Eur Vol: 1
+IEEE Trans Vis Comput Graph: 1
+Ergonomics: 1
+J Biopharm Stat: 1
+AIDS Educ Prev: 1
+Ann Clin Biochem: 1
+Pol Merkur Lekarski: 1
+J Opt Soc Am A Opt Image Sci Vis: 1
+Sultan Qaboos Univ Med J: 1
+Web Semant: 1
+Comput Intell Neurosci: 1
+Orthopedics: 1
+Rev Esc Enferm USP: 1
+Inverse Probl: 1
+Pathologica: 1
+Int J Occup Med Environ Health: 1
+Ophthalmic Surg Lasers Imaging: 1
+J Androl: 1
+J Health Serv Res Policy: 1
+Public Health Genomics: 1
+Nat Comput: 1
+Clin Ethics: 1
+Int Arch Occup Environ Health: 1
+Neuropediatrics: 1
+HEC Forum: 1
+Rech Soins Infirm: 1
+J Occup Environ Med: 1
+Nurs Clin North Am: 1
+Circ Arrhythm Electrophysiol: 1
+Comput Methods Biomech Biomed Engin: 1
+Lik Sprava: 1
+Endocr Metab Immune Disord Drug Targets: 1
+Chromatographia: 1
+BMJ Qual Saf: 1
+J Interprof Care: 1
+Liver Transpl: 1
+Int J Hypertens: 1
+Health Care Anal: 1
+J Biosci Bioeng: 1
+Integr Zool: 1
+Anal Sci: 1
+An Bras Dermatol: 1
+Lifetime Data Anal: 1
+Chin J Dent Res: 1
+Res Sports Med: 1
+NTM: 1
+Hist Human Sci: 1
+Cell Med: 1
+Results Immunol: 1
+Comput Stat Data Anal: 1
+Int J Burns Trauma: 1
+J Complement Integr Med: 1
+Bull Mem Acad R Med Belg: 1
+J Biochem Mol Toxicol: 1
+Prog Drug Res: 1
+Med Lav: 1
+Aust N Z J Public Health: 1
+Hum Cell: 1
+Sleep Med Rev: 1
+Folia Biol (Krakow): 1
+Vet Ther: 1
+J Clin Orthod: 1
+Arch Gen Psychiatry: 1
+Am J Orthod Dentofacial Orthop: 1
+J Syst Sci Complex: 1
+Knee: 1
+Soc Polit: 1
+Invest Clin: 1
+Nat Rev Drug Discov: 1
+Obstet Gynecol Int: 1
+Lasers Surg Med: 1
+Fibrogenesis Tissue Repair: 1
+Neurosci Behav Physiol: 1
+Medizinhist J: 1
+IEEE Trans Image Process: 1
+Quintessence Int: 1
+Indian J Community Med: 1
+Int J Sport Nutr Exerc Metab: 1
+Theor Biol Med Model: 1
+Health Soc Care Community: 1
+Mater Res Bull: 1
+Rev Soc Bras Med Trop: 1
+Int Arch Med: 1
+Nonlinear Biomed Phys: 1
+Acta Biomed: 1
+World J Oncol: 1
+Aust J Chem: 1
+Am J Sports Med: 1
+Ber Wiss: 1
+J Community Health: 1
+Stud Hist Philos Sci: 1
+Ecohealth: 1
+Soc Work: 1
+Sports Med Arthrosc Rehabil Ther Technol: 1
+J Am Dent Assoc: 1
+Rev Calid Asist: 1
+Cardiovasc Psychiatry Neurol: 1
+Vet Surg: 1
+Nat Photonics: 1
+Eur Arch Paediatr Dent: 1
+Cancer Epidemiol: 1
+Adv Health Sci Educ Theory Pract: 1
+Hist Stud Nat Sci: 1
+Annu Rev Phys Chem: 1
+Organogenesis: 1
+J Comput Sci Technol: 1
+Med Secoli: 1
+Top Curr Chem: 1
+Emerg Infect Dis: 1
+J Forensic Sci: 1
+Hum Vaccin: 1
+Open AIDS J: 1
+Presse Med: 1
+Med J Malaysia: 1
+Biomed Instrum Technol: 1
+Curr Opin Support Palliat Care: 1
+Int Health: 1
+Neural Netw: 1
+IEEE Eng Med Biol Mag: 1
+Breast J: 1
+Pharmazie: 1
+Bioethics: 1
+Alcohol: 1
+Sheng Li Ke Xue Jin Zhan: 1
+Horm Res: 1
+Can J Nurs Res: 1
+J Occup Health: 1
+ANS Adv Nurs Sci: 1
+Cardiovasc Intervent Radiol: 1
+Scand J Work Environ Health: 1
+Brain Res Rev: 1
+Rev Esp Cardiol: 1
+J Med Philos: 1
+Psychopathology: 1
+Curr Opin Obstet Gynecol: 1
+Rev Electron Comun Inf Inov Saude: 1
+Cerebellum: 1
+Nat Clin Pract Rheumatol: 1
+Oral Surg Oral Med Oral Pathol Oral Radiol Endod: 1
+Int J Ther Massage Bodywork: 1
+Int J Gen Med: 1
+J Hered: 1
+Comp Immunol Microbiol Infect Dis: 1
+Cytogenet Genome Res: 1
