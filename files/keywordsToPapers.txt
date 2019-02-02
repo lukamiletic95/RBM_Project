@@ -1,0 +1,164 @@
+*** cell ***
+Number of papers: 6605
+
+
+*** cancer ***
+Number of papers: 5018
+
+
+*** stem ***
+Number of papers: 2520
+
+
+*** tissue ***
+Number of papers: 1478
+
+
+*** spect ***
+Number of papers: 1097
+
+
+*** drug ***
+Number of papers: 829
+
+
+*** nanoparticle ***
+Number of papers: 825
+
+
+*** polymer ***
+Number of papers: 628
+
+
+*** imaging ***
+Number of papers: 561
+
+
+*** breast ***
+Number of papers: 514
+
+
+*** therapeutic ***
+Number of papers: 484
+
+
+*** nuclear ***
+Number of papers: 274
+
+
+*** sensor ***
+Number of papers: 240
+
+
+*** microscop ***
+Number of papers: 154
+
+
+*** surgery ***
+Number of papers: 146
+
+
+*** scaffold ***
+Number of papers: 141
+
+
+*** spectroscopy ***
+Number of papers: 113
+
+
+*** radiation ***
+Number of papers: 109
+
+
+*** hydrogel ***
+Number of papers: 101
+
+
+*** biomaterial ***
+Number of papers: 96
+
+
+*** electron ***
+Number of papers: 95
+
+
+*** ultrasound ***
+Number of papers: 90
+
+
+*** contrast ***
+Number of papers: 76
+
+
+*** diagnose ***
+Number of papers: 68
+
+
+*** bioinformatics ***
+Number of papers: 60
+
+
+*** gamma ***
+Number of papers: 55
+
+
+*** rehabilitation ***
+Number of papers: 46
+
+
+*** eeg ***
+Number of papers: 41
+
+
+*** biocompatibility ***
+Number of papers: 30
+
+
+*** angiography ***
+Number of papers: 11
+
+
+*** ionizing ***
+Number of papers: 10
+
+
+*** elastography ***
+Number of papers: 10
+
+
+*** fluorophore ***
+Number of papers: 9
+
+
+*** synchrotron ***
+Number of papers: 7
+
+
+*** brachytherapy ***
+Number of papers: 5
+
+
+*** electromagnetic ***
+Number of papers: 4
+
+
+*** x-ray, ***
+Number of papers: 1
+
+
+*** laparoscope ***
+Number of papers: 0
+
+
+*** exoskeleton ***
+Number of papers: 0
+
+
+*** haptic ***
+Number of papers: 0
+
+
+*** prosthetics ***
+Number of papers: 0
+
+
