@@ -38,6 +38,9 @@ file.close()
 
 authorsPerJournalAppearances = {}
 for value in authorsPerJournal.values():
+    if value > 200:
+        continue
+
     if value not in authorsPerJournalAppearances:
         authorsPerJournalAppearances[value] = 1
     else:

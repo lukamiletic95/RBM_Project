@@ -30,6 +30,9 @@ file.close()
 
 papersPerJournalAppearances = {}
 for value in papersPerJournal.values():
+    if value > 10:
+        continue
+
     if value not in papersPerJournalAppearances:
         papersPerJournalAppearances[value] = 1
     else:

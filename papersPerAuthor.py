@@ -39,6 +39,9 @@ file.close()
 
 papersPerAuthorAppearances = {}
 for value in papersPerAuthor.values():
+    if value > 5:
+        continue
+
     if value not in papersPerAuthorAppearances:
         papersPerAuthorAppearances[value] = 1
     else:
