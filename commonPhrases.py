@@ -1,6 +1,6 @@
 import pandas as pd
 
-toSkip = ['and', 'or', 'in', 'the', 'a', 'an', 'is', 'on', 'under', 'of', 'to', 'but', 'its', 'with']
+toSkip = ['and', 'or', 'in', 'the', 'a', 'an', 'is', 'on', 'under', 'of', 'to', 'but', 'its', 'with', 'for', 'by', 'as', 'via', 'at']
 characters = [',', '(', ')', '[', ']', ':', '?', '!', '.']
 
 sheet = pd.read_csv(r"files/pubmed_title_year.csv")
