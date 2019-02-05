@@ -32,7 +32,7 @@ for i in range(len(sheet['Title'])):
                 newWord += ' '
             newWord += word
 
-            if numWords == 1:
+            if numWords == 2:
                 newWordKey = ''.join(newWord.split())
 
                 if newWordKey not in phraseToName:
@@ -47,7 +47,7 @@ for i in range(len(sheet['Title'])):
 phraseToCount = {k: v for k, v in
                  sorted(phraseToCount.items(), key=lambda x: x[1], reverse=True)}
 
-file = open('files/commonPhrasesOfOne.txt', 'w+')
+file = open('files/commonPhrasesOfTwo.txt', 'w+')
 
 for key, value in phraseToCount.items():
     file.write(phraseToName[key] + ': ' + str(value) + '\n')
